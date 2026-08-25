@@ -1,0 +1,1201 @@
+customer_id,full_name,email,phone,city,state,segment,created_at,is_active
+CUST000001,Cliente 000001,cliente000001@example.com,+528479902459,Ciudad de México,CDMX,silver,2025-01-20 10:14:03,True
+CUST000002,Cliente 000002,cliente000002@example.com,+529963334018,Guadalajara,JAL,platinum,2025-03-21 14:38:54,True
+CUST000003,Cliente 000003,cliente000003@example.com,+521939042955,Oaxaca,OAX,bronze,2025-03-14 18:36:21,True
+CUST000004,Cliente 000004,cliente000004@example.com,+526241752544,León,GTO,gold,2025-11-22 20:24:58,True
+CUST000005,Cliente 000005,cliente000005@example.com,+526756332150,Guadalajara,JAL,silver,2025-11-25 06:06:12,True
+CUST000006,Cliente 000006,cliente000006@example.com,+525693307665,Mérida,YUC,bronze,2025-03-21 09:20:15,True
+CUST000007,Cliente 000007,cliente000007@example.com,+529776552803,Mérida,YUC,platinum,2026-04-14 22:16:08,True
+CUST000008,Cliente 000008,cliente000008@example.com,+527665963761,Querétaro,QRO,gold,2025-03-03 04:56:31,True
+CUST000009,Cliente 000009,cliente000009@example.com,+523840104345,Ciudad de México,CDMX,gold,2025-02-05 14:13:42,True
+CUST000010,Cliente 000010,cliente000010@example.com,+526927597015,Monterrey,NL,platinum,2025-03-20 10:48:11,True
+CUST000011,Cliente 000011,cliente000011@example.com,+522525876051,Guadalajara,JAL,gold,2025-10-15 12:40:24,True
+CUST000012,Cliente 000012,cliente000012@example.com,+522051454923,Cancún,QROO,platinum,2025-05-13 22:15:20,False
+CUST000013,Cliente 000013,cliente000013@example.com,+521240251661,Puebla,PUE,bronze,2026-03-09 14:17:44,True
+CUST000014,Cliente 000014,cliente000014@example.com,+521284277889,Querétaro,QRO,gold,2025-07-27 23:03:06,True
+CUST000015,Cliente 000015,cliente000015@example.com,+528055995058,Tijuana,BC,silver,2025-11-04 07:06:47,True
+CUST000016,Cliente 000016,cliente000016@example.com,+527609857128,Guadalajara,JAL,platinum,2025-07-11 13:28:11,False
+CUST000017,Cliente 000017,cliente000017@example.com,+523119634399,Mérida,YUC,bronze,2025-06-20 08:26:06,True
+CUST000018,Cliente 000018,cliente000018@example.com,+525567816720,Guadalajara,JAL,platinum,2025-05-05 06:16:50,False
+CUST000019,Cliente 000019,cliente000019@example.com,+529639245200,León,GTO,bronze,2025-07-15 06:41:55,True
+CUST000020,Cliente 000020,cliente000020@example.com,+526555540744,Mérida,YUC,silver,2025-03-28 15:28:59,False
+CUST000021,Cliente 000021,cliente000021@example.com,+524272602734,Oaxaca,OAX,bronze,2025-07-24 13:55:39,True
+CUST000022,Cliente 000022,cliente000022@example.com,+521854316681,León,GTO,gold,2026-04-19 00:01:39,True
+CUST000023,Cliente 000023,cliente000023@example.com,+524944899549,León,GTO,gold,2026-02-16 22:30:32,False
+CUST000024,Cliente 000024,cliente000024@example.com,+529285415473,Oaxaca,OAX,gold,2025-03-28 21:21:55,True
+CUST000025,Cliente 000025,cliente000025@example.com,+525067116918,Oaxaca,OAX,bronze,2025-07-07 02:10:18,False
+CUST000026,Cliente 000026,cliente000026@example.com,+524289233844,Ciudad de México,CDMX,silver,2026-02-18 18:21:45,False
+CUST000027,Cliente 000027,cliente000027@example.com,+526633778586,León,GTO,gold,2025-05-09 06:11:22,False
+CUST000028,Cliente 000028,cliente000028@example.com,+521519709079,León,GTO,silver,2025-12-17 16:18:42,True
+CUST000029,Cliente 000029,cliente000029@example.com,+521945826486,Mérida,YUC,bronze,2025-01-17 08:06:25,True
+CUST000030,Cliente 000030,cliente000030@example.com,+524888749350,Monterrey,NL,gold,2025-02-22 08:25:59,True
+CUST000031,Cliente 000031,cliente000031@example.com,+523084839399,León,GTO,silver,2025-07-04 20:43:40,False
+CUST000032,Cliente 000032,cliente000032@example.com,+528763140509,Monterrey,NL,silver,2026-01-03 08:51:16,True
+CUST000033,Cliente 000033,cliente000033@example.com,+526816663775,Ciudad de México,CDMX,platinum,2025-12-01 19:22:35,False
+CUST000034,Cliente 000034,cliente000034@example.com,+525555296751,Oaxaca,OAX,gold,2025-03-18 10:38:31,True
+CUST000035,Cliente 000035,cliente000035@example.com,+522926780541,Monterrey,NL,platinum,2025-05-29 19:29:52,True
+CUST000036,Cliente 000036,cliente000036@example.com,+524965395580,Puebla,PUE,platinum,2025-12-26 08:00:44,True
+CUST000037,Cliente 000037,cliente000037@example.com,+524590711152,Oaxaca,OAX,bronze,2026-02-24 21:17:22,True
+CUST000038,Cliente 000038,cliente000038@example.com,+527380780055,Guadalajara,JAL,silver,2025-11-12 16:06:25,False
+CUST000039,Cliente 000039,cliente000039@example.com,+522627677155,Oaxaca,OAX,platinum,2025-05-08 21:03:30,True
+CUST000040,Cliente 000040,cliente000040@example.com,+528380507338,Tijuana,BC,silver,2025-08-10 13:25:51,True
+CUST000041,Cliente 000041,cliente000041@example.com,+525160575046,Puebla,PUE,bronze,2025-06-19 02:14:19,True
+CUST000042,Cliente 000042,cliente000042@example.com,+527803990970,Oaxaca,OAX,silver,2025-02-08 22:43:15,True
+CUST000043,Cliente 000043,cliente000043@example.com,+524656488400,León,GTO,bronze,2025-03-04 05:23:09,True
+CUST000044,Cliente 000044,cliente000044@example.com,+523553440342,Monterrey,NL,bronze,2025-11-10 14:55:18,False
+CUST000045,Cliente 000045,cliente000045@example.com,+527540301973,Cancún,QROO,gold,2026-03-16 00:35:36,True
+CUST000046,Cliente 000046,cliente000046@example.com,+526435772945,Mérida,YUC,silver,2025-07-05 09:25:43,True
+CUST000047,Cliente 000047,cliente000047@example.com,+525018948187,Tijuana,BC,bronze,2025-09-03 13:58:12,False
+CUST000048,Cliente 000048,cliente000048@example.com,+525278201677,Cancún,QROO,bronze,2026-03-14 06:57:43,True
+CUST000049,Cliente 000049,cliente000049@example.com,+526344160868,León,GTO,gold,2025-07-25 23:41:38,True
+CUST000050,Cliente 000050,cliente000050@example.com,+528316648259,Tijuana,BC,bronze,2026-02-26 22:19:00,True
+CUST000051,Cliente 000051,cliente000051@example.com,+522135872495,Ciudad de México,CDMX,bronze,2025-04-15 07:22:04,True
+CUST000052,Cliente 000052,cliente000052@example.com,+523597724331,Puebla,PUE,gold,2025-08-07 20:19:03,True
+CUST000053,Cliente 000053,cliente000053@example.com,+527393195616,Puebla,PUE,bronze,2026-01-28 13:30:27,True
+CUST000054,Cliente 000054,cliente000054@example.com,+521189351213,Querétaro,QRO,gold,2025-08-03 21:41:35,True
+CUST000055,Cliente 000055,cliente000055@example.com,+528478529823,Puebla,PUE,platinum,2025-05-06 12:06:22,True
+CUST000056,Cliente 000056,cliente000056@example.com,+523373077218,Ciudad de México,CDMX,platinum,2025-02-28 10:38:49,True
+CUST000057,Cliente 000057,cliente000057@example.com,+522536778950,Oaxaca,OAX,silver,2025-08-28 10:21:07,True
+CUST000058,Cliente 000058,cliente000058@example.com,+524993808565,Mérida,YUC,silver,2026-03-11 20:59:06,True
+CUST000059,Cliente 000059,cliente000059@example.com,+529265609985,Querétaro,QRO,platinum,2025-01-20 06:03:04,True
+CUST000060,Cliente 000060,cliente000060@example.com,+525759234471,Puebla,PUE,bronze,2025-05-04 15:39:46,False
+CUST000061,Cliente 000061,cliente000061@example.com,+527271954644,Monterrey,NL,gold,2025-06-05 00:18:25,True
+CUST000062,Cliente 000062,cliente000062@example.com,+523834820954,Monterrey,NL,platinum,2025-01-19 09:08:13,True
+CUST000063,Cliente 000063,cliente000063@example.com,+526493800024,Puebla,PUE,platinum,2025-02-23 22:05:47,True
+CUST000064,Cliente 000064,cliente000064@example.com,+522121910732,Oaxaca,OAX,gold,2025-03-31 14:07:33,True
+CUST000065,Cliente 000065,cliente000065@example.com,+527161404428,Ciudad de México,CDMX,gold,2026-04-09 08:53:39,False
+CUST000066,Cliente 000066,cliente000066@example.com,+525791662169,Cancún,QROO,silver,2026-02-02 05:37:00,True
+CUST000067,Cliente 000067,cliente000067@example.com,+529597198563,Oaxaca,OAX,silver,2025-12-05 16:42:04,True
+CUST000068,Cliente 000068,cliente000068@example.com,+529249648005,Querétaro,QRO,gold,2025-02-24 08:24:22,True
+CUST000069,Cliente 000069,cliente000069@example.com,+527049001493,Puebla,PUE,platinum,2026-01-29 21:26:55,True
+CUST000070,Cliente 000070,cliente000070@example.com,+526118914230,León,GTO,platinum,2025-04-09 20:48:59,True
+CUST000071,Cliente 000071,cliente000071@example.com,+526587537178,Cancún,QROO,bronze,2026-03-19 00:53:27,True
+CUST000072,Cliente 000072,cliente000072@example.com,+528106906538,Puebla,PUE,platinum,2025-06-13 06:05:21,False
+CUST000073,Cliente 000073,cliente000073@example.com,+527490442894,Tijuana,BC,silver,2025-06-15 23:40:58,True
+CUST000074,Cliente 000074,cliente000074@example.com,+527954672204,Puebla,PUE,bronze,2026-02-05 08:43:18,True
+CUST000075,Cliente 000075,cliente000075@example.com,+524464161270,Puebla,PUE,silver,2025-06-24 11:36:19,True
+CUST000076,Cliente 000076,cliente000076@example.com,+529520940324,Oaxaca,OAX,bronze,2025-07-10 04:11:44,False
+CUST000077,Cliente 000077,cliente000077@example.com,+528285786023,Querétaro,QRO,platinum,2026-03-24 03:17:00,False
+CUST000078,Cliente 000078,cliente000078@example.com,+522825989011,Monterrey,NL,silver,2025-04-25 14:55:45,False
+CUST000079,Cliente 000079,cliente000079@example.com,+524643576871,Oaxaca,OAX,platinum,2026-03-09 22:47:49,True
+CUST000080,Cliente 000080,cliente000080@example.com,+527852415525,Tijuana,BC,platinum,2026-02-17 13:00:57,False
+CUST000081,Cliente 000081,cliente000081@example.com,+524853479481,León,GTO,platinum,2025-12-13 08:25:55,False
+CUST000082,Cliente 000082,cliente000082@example.com,+526322520473,Puebla,PUE,platinum,2025-07-12 00:52:57,True
+CUST000083,Cliente 000083,cliente000083@example.com,+526461974809,Puebla,PUE,gold,2025-07-02 03:16:37,True
+CUST000084,Cliente 000084,cliente000084@example.com,+526288227800,Guadalajara,JAL,silver,2025-04-28 03:41:14,True
+CUST000085,Cliente 000085,cliente000085@example.com,+527045593274,Ciudad de México,CDMX,platinum,2025-11-19 05:41:53,False
+CUST000086,Cliente 000086,cliente000086@example.com,+528872207630,Oaxaca,OAX,platinum,2025-06-10 15:40:20,True
+CUST000087,Cliente 000087,cliente000087@example.com,+523048612358,Cancún,QROO,gold,2025-10-23 10:48:58,True
+CUST000088,Cliente 000088,cliente000088@example.com,+524856070374,Querétaro,QRO,platinum,2025-11-22 11:07:22,True
+CUST000089,Cliente 000089,cliente000089@example.com,+523085816511,Puebla,PUE,platinum,2025-12-05 12:34:17,True
+CUST000090,Cliente 000090,cliente000090@example.com,+528904911624,Querétaro,QRO,silver,2025-05-09 04:39:24,True
+CUST000091,Cliente 000091,cliente000091@example.com,+521116402431,Querétaro,QRO,platinum,2026-04-05 17:40:51,True
+CUST000092,Cliente 000092,cliente000092@example.com,+525510938155,Tijuana,BC,platinum,2025-05-22 03:40:28,True
+CUST000093,Cliente 000093,cliente000093@example.com,+526698759353,Monterrey,NL,platinum,2025-12-20 04:12:35,True
+CUST000094,Cliente 000094,cliente000094@example.com,+524585915088,Querétaro,QRO,platinum,2025-07-15 22:40:55,True
+CUST000095,Cliente 000095,cliente000095@example.com,+522503068227,León,GTO,bronze,2025-02-10 10:56:45,True
+CUST000096,Cliente 000096,cliente000096@example.com,+529677466102,Oaxaca,OAX,silver,2025-07-12 01:41:41,True
+CUST000097,Cliente 000097,cliente000097@example.com,+523875303857,Guadalajara,JAL,silver,2026-01-03 19:49:04,False
+CUST000098,Cliente 000098,cliente000098@example.com,+524518871744,Puebla,PUE,gold,2025-10-14 12:42:16,True
+CUST000099,Cliente 000099,cliente000099@example.com,+529284507318,Cancún,QROO,platinum,2025-01-20 22:40:49,False
+CUST000100,Cliente 000100,cliente000100@example.com,+522043030161,Monterrey,NL,gold,2025-03-01 00:40:37,True
+CUST000101,Cliente 000101,cliente000101@example.com,+522591589823,Cancún,QROO,gold,2025-02-01 21:35:02,True
+CUST000102,Cliente 000102,cliente000102@example.com,+525748253283,Querétaro,QRO,gold,2026-01-16 18:01:19,False
+CUST000103,Cliente 000103,cliente000103@example.com,+528088660633,Guadalajara,JAL,platinum,2025-12-05 06:04:07,False
+CUST000104,Cliente 000104,cliente000104@example.com,+526447717367,Querétaro,QRO,silver,2026-04-06 04:31:38,True
+CUST000105,Cliente 000105,cliente000105@example.com,+526922713963,Puebla,PUE,bronze,2025-12-17 03:33:30,False
+CUST000106,Cliente 000106,cliente000106@example.com,+523094011037,Mérida,YUC,gold,2025-05-22 05:44:26,True
+CUST000107,Cliente 000107,cliente000107@example.com,+529633533290,Mérida,YUC,silver,2025-08-06 05:12:43,True
+CUST000108,Cliente 000108,cliente000108@example.com,+524256292393,Monterrey,NL,platinum,2025-11-12 16:22:09,False
+CUST000109,Cliente 000109,cliente000109@example.com,+525694628398,Tijuana,BC,silver,2025-01-14 09:26:15,False
+CUST000110,Cliente 000110,cliente000110@example.com,+526879898071,Monterrey,NL,gold,2025-08-26 20:05:38,False
+CUST000111,Cliente 000111,cliente000111@example.com,+527243788374,León,GTO,gold,2025-09-14 22:23:48,True
+CUST000112,Cliente 000112,cliente000112@example.com,+524097892639,Monterrey,NL,gold,2025-04-04 17:11:19,True
+CUST000113,Cliente 000113,cliente000113@example.com,+521822662216,León,GTO,platinum,2025-05-24 19:26:35,True
+CUST000114,Cliente 000114,cliente000114@example.com,+527858164010,Cancún,QROO,bronze,2026-02-12 11:56:24,True
+CUST000115,Cliente 000115,cliente000115@example.com,+522549972386,Puebla,PUE,gold,2025-06-26 16:35:36,True
+CUST000116,Cliente 000116,cliente000116@example.com,+522178158203,León,GTO,bronze,2025-04-09 07:40:38,True
+CUST000117,Cliente 000117,cliente000117@example.com,+529642614082,Guadalajara,JAL,gold,2026-01-17 06:38:31,False
+CUST000118,Cliente 000118,cliente000118@example.com,+522463320861,Tijuana,BC,bronze,2025-12-09 02:56:00,True
+CUST000119,Cliente 000119,cliente000119@example.com,+524530959836,Tijuana,BC,platinum,2025-03-30 14:44:18,False
+CUST000120,Cliente 000120,cliente000120@example.com,+521230249217,Ciudad de México,CDMX,silver,2026-03-25 04:27:14,True
+CUST000121,Cliente 000121,cliente000121@example.com,+528578226896,Ciudad de México,CDMX,silver,2025-07-12 18:36:53,False
+CUST000122,Cliente 000122,cliente000122@example.com,+527136777415,Tijuana,BC,bronze,2025-12-10 20:55:03,True
+CUST000123,Cliente 000123,cliente000123@example.com,+521348697524,Monterrey,NL,silver,2025-06-13 21:47:41,True
+CUST000124,Cliente 000124,cliente000124@example.com,+521672302490,León,GTO,platinum,2025-02-28 07:18:38,False
+CUST000125,Cliente 000125,cliente000125@example.com,+522250949136,Cancún,QROO,silver,2025-12-31 23:48:12,True
+CUST000126,Cliente 000126,cliente000126@example.com,+529895649328,Puebla,PUE,silver,2025-12-19 15:45:26,True
+CUST000127,Cliente 000127,cliente000127@example.com,+522825957977,Cancún,QROO,silver,2025-06-03 15:37:02,True
+CUST000128,Cliente 000128,cliente000128@example.com,+521306702926,Puebla,PUE,silver,2025-04-21 11:28:35,True
+CUST000129,Cliente 000129,cliente000129@example.com,+529251459094,Cancún,QROO,platinum,2026-03-19 02:47:18,True
+CUST000130,Cliente 000130,cliente000130@example.com,+528300300577,Tijuana,BC,gold,2025-08-25 04:40:14,False
+CUST000131,Cliente 000131,cliente000131@example.com,+523568547910,Tijuana,BC,platinum,2025-03-04 11:32:41,True
+CUST000132,Cliente 000132,cliente000132@example.com,+521111088881,Cancún,QROO,silver,2025-07-14 11:11:45,True
+CUST000133,Cliente 000133,cliente000133@example.com,+524248149900,Puebla,PUE,platinum,2026-03-24 14:01:20,False
+CUST000134,Cliente 000134,cliente000134@example.com,+528792122716,Puebla,PUE,bronze,2025-05-21 23:12:10,False
+CUST000135,Cliente 000135,cliente000135@example.com,+526726515966,Mérida,YUC,bronze,2025-11-14 04:09:36,True
+CUST000136,Cliente 000136,cliente000136@example.com,+528274273035,Mérida,YUC,gold,2025-11-16 17:37:14,False
+CUST000137,Cliente 000137,cliente000137@example.com,+522953462417,León,GTO,gold,2025-01-29 12:05:02,True
+CUST000138,Cliente 000138,cliente000138@example.com,+525243939720,Mérida,YUC,platinum,2025-04-01 00:56:06,False
+CUST000139,Cliente 000139,cliente000139@example.com,+527521647547,Oaxaca,OAX,platinum,2025-05-26 16:47:31,False
+CUST000140,Cliente 000140,cliente000140@example.com,+526532043071,Oaxaca,OAX,platinum,2025-06-08 02:36:02,True
+CUST000141,Cliente 000141,cliente000141@example.com,+524433026356,Oaxaca,OAX,silver,2026-04-18 22:11:25,True
+CUST000142,Cliente 000142,cliente000142@example.com,+527666869046,León,GTO,bronze,2025-01-11 14:54:37,True
+CUST000143,Cliente 000143,cliente000143@example.com,+525067594934,Ciudad de México,CDMX,silver,2025-12-25 10:00:43,False
+CUST000144,Cliente 000144,cliente000144@example.com,+528324687182,Puebla,PUE,platinum,2026-01-31 06:03:42,False
+CUST000145,Cliente 000145,cliente000145@example.com,+525916199809,Tijuana,BC,silver,2025-07-09 07:28:24,True
+CUST000146,Cliente 000146,cliente000146@example.com,+528964640525,Ciudad de México,CDMX,gold,2025-08-03 13:37:29,True
+CUST000147,Cliente 000147,cliente000147@example.com,+528413332538,Oaxaca,OAX,platinum,2025-08-08 16:30:02,True
+CUST000148,Cliente 000148,cliente000148@example.com,+527375197714,Tijuana,BC,gold,2026-02-23 07:52:10,False
+CUST000149,Cliente 000149,cliente000149@example.com,+524734910807,Tijuana,BC,silver,2025-09-07 22:21:52,False
+CUST000150,Cliente 000150,cliente000150@example.com,+525482431018,Monterrey,NL,platinum,2025-11-16 01:24:10,False
+CUST000151,Cliente 000151,cliente000151@example.com,+521158998032,Querétaro,QRO,gold,2025-04-29 03:26:55,True
+CUST000152,Cliente 000152,cliente000152@example.com,+522962491159,Tijuana,BC,silver,2025-03-19 10:45:38,False
+CUST000153,Cliente 000153,cliente000153@example.com,+529457665185,Guadalajara,JAL,gold,2025-02-28 02:53:58,False
+CUST000154,Cliente 000154,cliente000154@example.com,+528556573246,Ciudad de México,CDMX,bronze,2025-09-13 04:54:23,True
+CUST000155,Cliente 000155,cliente000155@example.com,+525283911723,Monterrey,NL,bronze,2025-08-12 05:07:58,False
+CUST000156,Cliente 000156,cliente000156@example.com,+522905584866,Ciudad de México,CDMX,gold,2025-03-20 01:35:26,True
+CUST000157,Cliente 000157,cliente000157@example.com,+524419410162,Oaxaca,OAX,gold,2025-09-09 22:46:55,True
+CUST000158,Cliente 000158,cliente000158@example.com,+521625217504,Mérida,YUC,platinum,2025-12-01 12:35:01,True
+CUST000159,Cliente 000159,cliente000159@example.com,+529929101065,Guadalajara,JAL,platinum,2025-05-16 23:31:45,True
+CUST000160,Cliente 000160,cliente000160@example.com,+521614685938,Tijuana,BC,platinum,2026-03-29 22:50:12,True
+CUST000161,Cliente 000161,cliente000161@example.com,+523864059081,Tijuana,BC,platinum,2025-07-18 07:38:05,True
+CUST000162,Cliente 000162,cliente000162@example.com,+525612201744,León,GTO,gold,2025-05-03 16:52:44,True
+CUST000163,Cliente 000163,cliente000163@example.com,+522297602688,Querétaro,QRO,platinum,2025-07-14 06:10:07,False
+CUST000164,Cliente 000164,cliente000164@example.com,+528298348088,Ciudad de México,CDMX,bronze,2025-07-04 05:50:05,False
+CUST000165,Cliente 000165,cliente000165@example.com,+524431078106,Puebla,PUE,gold,2025-01-07 06:57:25,True
+CUST000166,Cliente 000166,cliente000166@example.com,+524600630513,Monterrey,NL,bronze,2025-07-14 16:01:19,True
+CUST000167,Cliente 000167,cliente000167@example.com,+529733234156,Puebla,PUE,gold,2025-12-09 09:32:23,True
+CUST000168,Cliente 000168,cliente000168@example.com,+522784572192,Ciudad de México,CDMX,silver,2025-08-18 05:15:27,True
+CUST000169,Cliente 000169,cliente000169@example.com,+529218363978,León,GTO,silver,2025-10-12 04:04:43,True
+CUST000170,Cliente 000170,cliente000170@example.com,+525789617427,Tijuana,BC,bronze,2025-08-18 05:50:07,True
+CUST000171,Cliente 000171,cliente000171@example.com,+522570991899,Monterrey,NL,platinum,2025-11-05 16:17:13,True
+CUST000172,Cliente 000172,cliente000172@example.com,+525825776872,Puebla,PUE,gold,2026-02-21 18:25:58,True
+CUST000173,Cliente 000173,cliente000173@example.com,+529333490239,Cancún,QROO,bronze,2025-10-23 22:49:48,True
+CUST000174,Cliente 000174,cliente000174@example.com,+523620283102,Tijuana,BC,bronze,2025-01-20 10:29:35,False
+CUST000175,Cliente 000175,cliente000175@example.com,+521501119337,Puebla,PUE,bronze,2025-11-14 03:11:11,True
+CUST000176,Cliente 000176,cliente000176@example.com,+521498733671,Puebla,PUE,silver,2026-01-18 15:11:18,True
+CUST000177,Cliente 000177,cliente000177@example.com,+527615076397,Querétaro,QRO,silver,2025-12-19 08:31:57,False
+CUST000178,Cliente 000178,cliente000178@example.com,+527939173425,Ciudad de México,CDMX,gold,2026-01-16 02:05:23,True
+CUST000179,Cliente 000179,cliente000179@example.com,+527199283151,Mérida,YUC,silver,2025-06-18 18:12:01,True
+CUST000180,Cliente 000180,cliente000180@example.com,+522540492440,Ciudad de México,CDMX,platinum,2025-10-13 07:37:11,True
+CUST000181,Cliente 000181,cliente000181@example.com,+528834841054,Monterrey,NL,bronze,2025-04-05 21:13:19,True
+CUST000182,Cliente 000182,cliente000182@example.com,+522432410914,Cancún,QROO,silver,2025-01-17 14:07:54,True
+CUST000183,Cliente 000183,cliente000183@example.com,+524735313433,Ciudad de México,CDMX,gold,2026-03-07 11:10:55,True
+CUST000184,Cliente 000184,cliente000184@example.com,+525226368665,Cancún,QROO,silver,2025-01-03 04:51:30,True
+CUST000185,Cliente 000185,cliente000185@example.com,+521110724913,Guadalajara,JAL,bronze,2025-03-27 09:10:32,True
+CUST000186,Cliente 000186,cliente000186@example.com,+522390587865,Monterrey,NL,silver,2026-04-03 09:00:50,True
+CUST000187,Cliente 000187,cliente000187@example.com,+528480622107,Oaxaca,OAX,bronze,2025-04-09 10:57:01,True
+CUST000188,Cliente 000188,cliente000188@example.com,+528636525027,Tijuana,BC,bronze,2025-12-15 04:27:20,False
+CUST000189,Cliente 000189,cliente000189@example.com,+529776185998,León,GTO,gold,2025-06-22 01:59:12,False
+CUST000190,Cliente 000190,cliente000190@example.com,+529583864766,Oaxaca,OAX,platinum,2025-02-17 05:52:03,False
+CUST000191,Cliente 000191,cliente000191@example.com,+522905085701,Ciudad de México,CDMX,bronze,2026-01-16 19:16:25,True
+CUST000192,Cliente 000192,cliente000192@example.com,+521282103057,Cancún,QROO,gold,2025-04-26 05:08:34,True
+CUST000193,Cliente 000193,cliente000193@example.com,+527573691558,Querétaro,QRO,platinum,2026-04-10 00:11:28,False
+CUST000194,Cliente 000194,cliente000194@example.com,+526218484323,Ciudad de México,CDMX,platinum,2025-03-30 20:49:58,True
+CUST000195,Cliente 000195,cliente000195@example.com,+528848705807,Querétaro,QRO,platinum,2025-09-21 06:08:35,False
+CUST000196,Cliente 000196,cliente000196@example.com,+527127904756,Ciudad de México,CDMX,gold,2025-08-31 18:19:24,True
+CUST000197,Cliente 000197,cliente000197@example.com,+521288335378,Guadalajara,JAL,bronze,2026-01-04 08:59:39,True
+CUST000198,Cliente 000198,cliente000198@example.com,+529847550931,Querétaro,QRO,gold,2025-03-17 00:05:29,True
+CUST000199,Cliente 000199,cliente000199@example.com,+526636925105,Querétaro,QRO,bronze,2025-10-02 15:32:45,True
+CUST000200,Cliente 000200,cliente000200@example.com,+525759761714,Guadalajara,JAL,gold,2026-01-10 12:39:42,True
+CUST000201,Cliente 000201,cliente000201@example.com,+523391179068,Puebla,PUE,gold,2026-03-22 21:59:59,True
+CUST000202,Cliente 000202,cliente000202@example.com,+526754503097,Guadalajara,JAL,bronze,2025-08-01 06:07:45,True
+CUST000203,Cliente 000203,cliente000203@example.com,+528118240999,Guadalajara,JAL,bronze,2026-03-16 20:59:25,True
+CUST000204,Cliente 000204,cliente000204@example.com,+526218955985,Oaxaca,OAX,platinum,2025-03-13 06:29:13,False
+CUST000205,Cliente 000205,cliente000205@example.com,+526884333221,Mérida,YUC,gold,2025-05-03 06:19:17,True
+CUST000206,Cliente 000206,cliente000206@example.com,+523653594796,Oaxaca,OAX,bronze,2025-05-01 20:13:10,True
+CUST000207,Cliente 000207,cliente000207@example.com,+527193532615,Tijuana,BC,gold,2025-11-26 08:12:29,True
+CUST000208,Cliente 000208,cliente000208@example.com,+526777473414,León,GTO,bronze,2025-03-30 09:42:43,True
+CUST000209,Cliente 000209,cliente000209@example.com,+522324651201,Cancún,QROO,silver,2026-01-13 23:29:31,False
+CUST000210,Cliente 000210,cliente000210@example.com,+521033015788,Cancún,QROO,gold,2025-02-12 13:12:35,True
+CUST000211,Cliente 000211,cliente000211@example.com,+526538133249,Guadalajara,JAL,bronze,2025-07-18 11:13:43,True
+CUST000212,Cliente 000212,cliente000212@example.com,+521754603440,Tijuana,BC,platinum,2025-12-01 11:59:28,True
+CUST000213,Cliente 000213,cliente000213@example.com,+528757570742,León,GTO,bronze,2026-03-10 23:21:43,False
+CUST000214,Cliente 000214,cliente000214@example.com,+525375461598,Oaxaca,OAX,bronze,2025-12-05 19:43:21,True
+CUST000215,Cliente 000215,cliente000215@example.com,+527757700186,Cancún,QROO,platinum,2025-11-30 10:26:20,True
+CUST000216,Cliente 000216,cliente000216@example.com,+522394868732,Ciudad de México,CDMX,platinum,2025-11-11 14:20:58,True
+CUST000217,Cliente 000217,cliente000217@example.com,+524627032705,Ciudad de México,CDMX,silver,2025-12-06 04:53:51,False
+CUST000218,Cliente 000218,cliente000218@example.com,+523250402001,Cancún,QROO,platinum,2025-11-08 00:55:32,True
+CUST000219,Cliente 000219,cliente000219@example.com,+521722124509,Mérida,YUC,bronze,2025-06-22 02:24:09,True
+CUST000220,Cliente 000220,cliente000220@example.com,+524500557310,Mérida,YUC,silver,2025-09-30 16:58:24,True
+CUST000221,Cliente 000221,cliente000221@example.com,+521847275937,Guadalajara,JAL,silver,2025-07-18 19:35:36,True
+CUST000222,Cliente 000222,cliente000222@example.com,+527783763790,Guadalajara,JAL,gold,2026-01-19 19:00:32,True
+CUST000223,Cliente 000223,cliente000223@example.com,+525588254555,Guadalajara,JAL,platinum,2025-12-08 13:46:23,True
+CUST000224,Cliente 000224,cliente000224@example.com,+525536224717,Puebla,PUE,bronze,2026-04-05 08:51:48,True
+CUST000225,Cliente 000225,cliente000225@example.com,+521161521910,Tijuana,BC,gold,2025-12-18 00:17:06,True
+CUST000226,Cliente 000226,cliente000226@example.com,+527472806994,Ciudad de México,CDMX,platinum,2025-03-12 03:14:55,True
+CUST000227,Cliente 000227,cliente000227@example.com,+523799620568,Tijuana,BC,gold,2026-03-21 00:27:10,False
+CUST000228,Cliente 000228,cliente000228@example.com,+525113386226,León,GTO,platinum,2025-04-28 04:15:15,True
+CUST000229,Cliente 000229,cliente000229@example.com,+521741134891,Mérida,YUC,silver,2025-03-07 12:00:32,False
+CUST000230,Cliente 000230,cliente000230@example.com,+525976777081,Tijuana,BC,gold,2026-02-12 01:20:45,True
+CUST000231,Cliente 000231,cliente000231@example.com,+528621268224,Querétaro,QRO,bronze,2025-11-14 12:00:49,True
+CUST000232,Cliente 000232,cliente000232@example.com,+529995834531,Ciudad de México,CDMX,platinum,2025-09-14 01:52:52,True
+CUST000233,Cliente 000233,cliente000233@example.com,+524750707607,Puebla,PUE,gold,2026-04-14 03:09:26,True
+CUST000234,Cliente 000234,cliente000234@example.com,+529232363331,Cancún,QROO,gold,2025-04-20 20:24:57,False
+CUST000235,Cliente 000235,cliente000235@example.com,+525658832688,Guadalajara,JAL,platinum,2026-04-08 04:22:20,True
+CUST000236,Cliente 000236,cliente000236@example.com,+529991312028,Guadalajara,JAL,platinum,2026-02-13 20:40:59,True
+CUST000237,Cliente 000237,cliente000237@example.com,+522326569692,Oaxaca,OAX,silver,2025-10-09 15:18:37,True
+CUST000238,Cliente 000238,cliente000238@example.com,+521590838716,Tijuana,BC,bronze,2025-05-30 03:14:13,True
+CUST000239,Cliente 000239,cliente000239@example.com,+529752058817,Ciudad de México,CDMX,gold,2026-01-30 08:01:19,True
+CUST000240,Cliente 000240,cliente000240@example.com,+521662510569,Cancún,QROO,silver,2025-10-20 14:34:02,True
+CUST000241,Cliente 000241,cliente000241@example.com,+527059591606,Tijuana,BC,silver,2025-02-03 22:29:09,False
+CUST000242,Cliente 000242,cliente000242@example.com,+528661364201,Cancún,QROO,silver,2025-08-10 07:26:29,True
+CUST000243,Cliente 000243,cliente000243@example.com,+526128260438,Puebla,PUE,platinum,2025-12-31 07:05:04,False
+CUST000244,Cliente 000244,cliente000244@example.com,+523597009738,Puebla,PUE,gold,2025-10-24 14:37:05,True
+CUST000245,Cliente 000245,cliente000245@example.com,+524655730355,Tijuana,BC,gold,2025-10-16 07:53:42,True
+CUST000246,Cliente 000246,cliente000246@example.com,+523204833223,Guadalajara,JAL,platinum,2025-07-31 21:11:54,True
+CUST000247,Cliente 000247,cliente000247@example.com,+529094423237,Monterrey,NL,bronze,2025-12-17 09:38:06,False
+CUST000248,Cliente 000248,cliente000248@example.com,+527451071432,Oaxaca,OAX,silver,2025-11-04 22:26:15,False
+CUST000249,Cliente 000249,cliente000249@example.com,+521964386641,Ciudad de México,CDMX,gold,2025-10-19 04:52:43,True
+CUST000250,Cliente 000250,cliente000250@example.com,+521590985753,Mérida,YUC,gold,2025-04-24 10:33:23,False
+CUST000251,Cliente 000251,cliente000251@example.com,+521340272119,Guadalajara,JAL,gold,2025-12-31 08:50:47,True
+CUST000252,Cliente 000252,cliente000252@example.com,+522817865363,Guadalajara,JAL,gold,2026-03-03 06:27:09,True
+CUST000253,Cliente 000253,cliente000253@example.com,+521205082311,Puebla,PUE,platinum,2025-04-05 15:25:04,False
+CUST000254,Cliente 000254,cliente000254@example.com,+523302333490,Ciudad de México,CDMX,silver,2025-03-28 02:32:27,True
+CUST000255,Cliente 000255,cliente000255@example.com,+529596653373,Puebla,PUE,gold,2025-11-30 09:35:34,True
+CUST000256,Cliente 000256,cliente000256@example.com,+523869961166,Cancún,QROO,gold,2025-11-20 13:22:58,True
+CUST000257,Cliente 000257,cliente000257@example.com,+523380064537,León,GTO,platinum,2026-02-27 14:25:22,False
+CUST000258,Cliente 000258,cliente000258@example.com,+529508499533,Oaxaca,OAX,gold,2025-10-28 11:59:25,True
+CUST000259,Cliente 000259,cliente000259@example.com,+522480915452,Mérida,YUC,bronze,2025-02-22 11:24:05,True
+CUST000260,Cliente 000260,cliente000260@example.com,+523760786161,Guadalajara,JAL,platinum,2025-02-04 10:28:37,False
+CUST000261,Cliente 000261,cliente000261@example.com,+529860949331,Guadalajara,JAL,platinum,2025-04-15 17:50:03,True
+CUST000262,Cliente 000262,cliente000262@example.com,+525474951950,Puebla,PUE,gold,2025-06-06 13:55:42,False
+CUST000263,Cliente 000263,cliente000263@example.com,+522087974350,León,GTO,silver,2026-01-03 16:48:40,True
+CUST000264,Cliente 000264,cliente000264@example.com,+526720572969,Mérida,YUC,bronze,2025-02-07 03:07:54,True
+CUST000265,Cliente 000265,cliente000265@example.com,+528487449580,Querétaro,QRO,platinum,2025-11-07 16:56:46,True
+CUST000266,Cliente 000266,cliente000266@example.com,+528267378816,Guadalajara,JAL,gold,2026-01-21 09:53:54,True
+CUST000267,Cliente 000267,cliente000267@example.com,+525633956194,Ciudad de México,CDMX,silver,2025-11-26 17:14:50,True
+CUST000268,Cliente 000268,cliente000268@example.com,+525638860656,Mérida,YUC,gold,2025-03-21 16:33:49,True
+CUST000269,Cliente 000269,cliente000269@example.com,+528377306021,Tijuana,BC,silver,2026-04-14 01:40:52,False
+CUST000270,Cliente 000270,cliente000270@example.com,+529771848610,Mérida,YUC,gold,2025-12-14 07:06:03,False
+CUST000271,Cliente 000271,cliente000271@example.com,+529912233947,Puebla,PUE,platinum,2025-02-14 13:13:54,True
+CUST000272,Cliente 000272,cliente000272@example.com,+525092199300,León,GTO,silver,2025-05-05 06:22:07,False
+CUST000273,Cliente 000273,cliente000273@example.com,+521288765093,Oaxaca,OAX,gold,2025-04-09 01:05:53,True
+CUST000274,Cliente 000274,cliente000274@example.com,+529729028480,Querétaro,QRO,silver,2026-03-17 14:12:23,False
+CUST000275,Cliente 000275,cliente000275@example.com,+529920154998,Mérida,YUC,silver,2025-10-16 22:49:55,True
+CUST000276,Cliente 000276,cliente000276@example.com,+528084809436,Querétaro,QRO,silver,2025-09-02 04:34:09,True
+CUST000277,Cliente 000277,cliente000277@example.com,+523412365931,Oaxaca,OAX,gold,2025-05-25 12:11:13,True
+CUST000278,Cliente 000278,cliente000278@example.com,+523109688769,Tijuana,BC,bronze,2025-06-16 15:52:57,True
+CUST000279,Cliente 000279,cliente000279@example.com,+528358867651,Ciudad de México,CDMX,bronze,2025-12-18 02:41:11,True
+CUST000280,Cliente 000280,cliente000280@example.com,+521963110410,Mérida,YUC,silver,2025-02-20 10:33:07,True
+CUST000281,Cliente 000281,cliente000281@example.com,+525407856339,Monterrey,NL,gold,2026-01-19 17:14:11,False
+CUST000282,Cliente 000282,cliente000282@example.com,+521370292681,León,GTO,gold,2025-04-11 19:06:39,False
+CUST000283,Cliente 000283,cliente000283@example.com,+523469178881,Tijuana,BC,silver,2026-02-13 07:40:38,True
+CUST000284,Cliente 000284,cliente000284@example.com,+527517011632,Ciudad de México,CDMX,silver,2025-12-16 12:07:57,True
+CUST000285,Cliente 000285,cliente000285@example.com,+524728940550,Guadalajara,JAL,bronze,2025-12-03 00:35:21,True
+CUST000286,Cliente 000286,cliente000286@example.com,+525990610098,Puebla,PUE,silver,2025-05-08 21:25:49,True
+CUST000287,Cliente 000287,cliente000287@example.com,+524633257620,León,GTO,gold,2025-08-09 15:02:39,True
+CUST000288,Cliente 000288,cliente000288@example.com,+523291270703,León,GTO,silver,2025-08-02 04:08:17,True
+CUST000289,Cliente 000289,cliente000289@example.com,+524709911999,Guadalajara,JAL,bronze,2026-04-16 00:36:24,True
+CUST000290,Cliente 000290,cliente000290@example.com,+523796581976,Cancún,QROO,platinum,2025-07-25 13:32:37,True
+CUST000291,Cliente 000291,cliente000291@example.com,+529403748506,Tijuana,BC,platinum,2026-02-28 18:18:05,True
+CUST000292,Cliente 000292,cliente000292@example.com,+522947957237,Querétaro,QRO,bronze,2025-08-20 00:34:09,True
+CUST000293,Cliente 000293,cliente000293@example.com,+527374810067,Tijuana,BC,silver,2025-11-19 19:45:03,True
+CUST000294,Cliente 000294,cliente000294@example.com,+528380312396,Cancún,QROO,gold,2025-04-22 14:10:42,False
+CUST000295,Cliente 000295,cliente000295@example.com,+525751023835,Guadalajara,JAL,silver,2025-10-15 19:22:11,False
+CUST000296,Cliente 000296,cliente000296@example.com,+522931000173,Ciudad de México,CDMX,silver,2025-07-27 18:02:00,True
+CUST000297,Cliente 000297,cliente000297@example.com,+529355364489,Oaxaca,OAX,platinum,2025-08-14 09:56:37,True
+CUST000298,Cliente 000298,cliente000298@example.com,+528392190335,Guadalajara,JAL,silver,2025-09-12 07:50:45,True
+CUST000299,Cliente 000299,cliente000299@example.com,+527299922974,Tijuana,BC,gold,2026-02-04 19:09:59,False
+CUST000300,Cliente 000300,cliente000300@example.com,+529354711271,Oaxaca,OAX,platinum,2025-03-11 22:38:12,True
+CUST000301,Cliente 000301,cliente000301@example.com,+522515672889,Monterrey,NL,bronze,2026-03-30 02:19:20,True
+CUST000302,Cliente 000302,cliente000302@example.com,+527316122432,Tijuana,BC,bronze,2026-04-10 02:33:25,True
+CUST000303,Cliente 000303,cliente000303@example.com,+529085085822,Querétaro,QRO,gold,2025-04-15 00:43:41,False
+CUST000304,Cliente 000304,cliente000304@example.com,+522720484983,Mérida,YUC,silver,2025-02-05 03:22:45,True
+CUST000305,Cliente 000305,cliente000305@example.com,+525610783750,León,GTO,platinum,2025-08-13 03:55:32,True
+CUST000306,Cliente 000306,cliente000306@example.com,+525710211115,Cancún,QROO,gold,2025-04-03 06:47:52,True
+CUST000307,Cliente 000307,cliente000307@example.com,+524242550727,León,GTO,silver,2025-10-11 23:23:48,False
+CUST000308,Cliente 000308,cliente000308@example.com,+521194576436,León,GTO,silver,2025-02-01 06:24:21,True
+CUST000309,Cliente 000309,cliente000309@example.com,+522962750929,Tijuana,BC,silver,2026-02-08 09:03:48,True
+CUST000310,Cliente 000310,cliente000310@example.com,+525992908271,Cancún,QROO,gold,2025-09-05 09:49:48,True
+CUST000311,Cliente 000311,cliente000311@example.com,+527581349462,León,GTO,gold,2026-01-31 21:45:34,False
+CUST000312,Cliente 000312,cliente000312@example.com,+523702653209,Oaxaca,OAX,platinum,2025-10-14 02:41:14,True
+CUST000313,Cliente 000313,cliente000313@example.com,+529810503338,Cancún,QROO,platinum,2026-03-25 15:53:08,True
+CUST000314,Cliente 000314,cliente000314@example.com,+523923699745,León,GTO,bronze,2025-10-23 07:15:41,True
+CUST000315,Cliente 000315,cliente000315@example.com,+527189213526,Monterrey,NL,platinum,2025-01-15 17:01:05,True
+CUST000316,Cliente 000316,cliente000316@example.com,+529248574674,Querétaro,QRO,bronze,2025-06-08 08:48:59,True
+CUST000317,Cliente 000317,cliente000317@example.com,+527703957637,León,GTO,platinum,2025-06-11 01:07:46,False
+CUST000318,Cliente 000318,cliente000318@example.com,+527584730597,Mérida,YUC,gold,2025-05-15 12:21:15,True
+CUST000319,Cliente 000319,cliente000319@example.com,+526353758928,Cancún,QROO,gold,2026-01-12 01:46:16,True
+CUST000320,Cliente 000320,cliente000320@example.com,+524027526473,Puebla,PUE,platinum,2025-08-13 11:25:39,True
+CUST000321,Cliente 000321,cliente000321@example.com,+528394492221,Tijuana,BC,gold,2025-09-28 22:09:44,True
+CUST000322,Cliente 000322,cliente000322@example.com,+529504724761,Cancún,QROO,gold,2026-02-26 21:48:42,True
+CUST000323,Cliente 000323,cliente000323@example.com,+524067213499,Puebla,PUE,gold,2025-02-02 16:10:34,False
+CUST000324,Cliente 000324,cliente000324@example.com,+521919066362,Puebla,PUE,gold,2026-01-08 02:41:05,True
+CUST000325,Cliente 000325,cliente000325@example.com,+523520417815,Guadalajara,JAL,silver,2025-03-26 20:07:51,True
+CUST000326,Cliente 000326,cliente000326@example.com,+523739951076,León,GTO,bronze,2025-06-25 06:49:27,True
+CUST000327,Cliente 000327,cliente000327@example.com,+528375996697,Querétaro,QRO,bronze,2025-09-14 13:07:09,True
+CUST000328,Cliente 000328,cliente000328@example.com,+525973319056,Oaxaca,OAX,platinum,2026-03-04 11:18:55,False
+CUST000329,Cliente 000329,cliente000329@example.com,+526674372082,Monterrey,NL,bronze,2025-08-12 02:38:08,True
+CUST000330,Cliente 000330,cliente000330@example.com,+525022964382,Cancún,QROO,silver,2025-06-30 08:53:53,False
+CUST000331,Cliente 000331,cliente000331@example.com,+523127657643,Guadalajara,JAL,gold,2025-01-29 05:25:25,True
+CUST000332,Cliente 000332,cliente000332@example.com,+529516893896,Oaxaca,OAX,gold,2025-08-20 18:26:02,False
+CUST000333,Cliente 000333,cliente000333@example.com,+525031086659,León,GTO,platinum,2026-02-12 06:00:21,True
+CUST000334,Cliente 000334,cliente000334@example.com,+522420277403,Monterrey,NL,platinum,2025-03-29 11:53:16,True
+CUST000335,Cliente 000335,cliente000335@example.com,+528458717057,Guadalajara,JAL,gold,2025-01-11 22:32:54,True
+CUST000336,Cliente 000336,cliente000336@example.com,+528846861559,Guadalajara,JAL,gold,2025-11-11 22:53:18,True
+CUST000337,Cliente 000337,cliente000337@example.com,+525898890707,Querétaro,QRO,gold,2025-03-16 02:06:26,True
+CUST000338,Cliente 000338,cliente000338@example.com,+522647439475,Oaxaca,OAX,platinum,2025-07-22 13:23:23,True
+CUST000339,Cliente 000339,cliente000339@example.com,+523460489491,Mérida,YUC,gold,2025-08-23 12:40:42,True
+CUST000340,Cliente 000340,cliente000340@example.com,+523868119543,Monterrey,NL,platinum,2025-02-18 06:04:53,True
+CUST000341,Cliente 000341,cliente000341@example.com,+528601409432,Guadalajara,JAL,bronze,2025-11-11 21:30:48,True
+CUST000342,Cliente 000342,cliente000342@example.com,+525868640848,Mérida,YUC,silver,2025-06-21 12:55:41,False
+CUST000343,Cliente 000343,cliente000343@example.com,+529941564880,Cancún,QROO,platinum,2025-10-18 04:52:18,True
+CUST000344,Cliente 000344,cliente000344@example.com,+521481933114,Ciudad de México,CDMX,silver,2026-03-15 04:52:02,True
+CUST000345,Cliente 000345,cliente000345@example.com,+522897690739,Guadalajara,JAL,silver,2025-09-12 20:33:21,False
+CUST000346,Cliente 000346,cliente000346@example.com,+525533921266,Ciudad de México,CDMX,silver,2026-02-01 10:05:10,False
+CUST000347,Cliente 000347,cliente000347@example.com,+529837912162,Tijuana,BC,platinum,2026-03-15 00:03:59,True
+CUST000348,Cliente 000348,cliente000348@example.com,+529602885936,Oaxaca,OAX,silver,2025-11-04 13:01:08,True
+CUST000349,Cliente 000349,cliente000349@example.com,+529863781331,Oaxaca,OAX,bronze,2025-11-26 02:17:30,True
+CUST000350,Cliente 000350,cliente000350@example.com,+526528012497,Tijuana,BC,silver,2025-01-25 15:34:51,True
+CUST000351,Cliente 000351,cliente000351@example.com,+526937704752,Querétaro,QRO,platinum,2025-10-18 20:27:26,False
+CUST000352,Cliente 000352,cliente000352@example.com,+528989870040,Ciudad de México,CDMX,bronze,2026-02-23 21:17:08,True
+CUST000353,Cliente 000353,cliente000353@example.com,+523271361431,León,GTO,silver,2025-11-02 07:08:38,True
+CUST000354,Cliente 000354,cliente000354@example.com,+521986399651,Oaxaca,OAX,platinum,2025-08-20 17:53:21,True
+CUST000355,Cliente 000355,cliente000355@example.com,+524287754238,Guadalajara,JAL,bronze,2025-08-03 02:29:00,False
+CUST000356,Cliente 000356,cliente000356@example.com,+522033653860,Cancún,QROO,bronze,2025-01-13 03:39:31,True
+CUST000357,Cliente 000357,cliente000357@example.com,+524746123831,Cancún,QROO,silver,2025-01-27 01:54:25,True
+CUST000358,Cliente 000358,cliente000358@example.com,+521242425303,Querétaro,QRO,gold,2025-12-07 22:51:35,True
+CUST000359,Cliente 000359,cliente000359@example.com,+528809893329,Cancún,QROO,silver,2025-09-05 16:47:44,True
+CUST000360,Cliente 000360,cliente000360@example.com,+526244338653,Guadalajara,JAL,gold,2026-02-09 20:49:26,True
+CUST000361,Cliente 000361,cliente000361@example.com,+524915196257,Oaxaca,OAX,platinum,2026-03-09 09:58:40,False
+CUST000362,Cliente 000362,cliente000362@example.com,+528178361487,Oaxaca,OAX,gold,2025-09-25 12:21:27,False
+CUST000363,Cliente 000363,cliente000363@example.com,+526582978573,Querétaro,QRO,silver,2025-04-26 21:37:04,False
+CUST000364,Cliente 000364,cliente000364@example.com,+524039019230,Monterrey,NL,platinum,2025-06-25 00:43:36,True
+CUST000365,Cliente 000365,cliente000365@example.com,+529451577335,León,GTO,silver,2025-11-17 12:51:57,False
+CUST000366,Cliente 000366,cliente000366@example.com,+526168291913,Monterrey,NL,bronze,2025-07-18 01:27:48,False
+CUST000367,Cliente 000367,cliente000367@example.com,+524562272871,Mérida,YUC,bronze,2025-03-13 19:39:13,True
+CUST000368,Cliente 000368,cliente000368@example.com,+523589530484,Querétaro,QRO,bronze,2026-04-15 21:26:52,True
+CUST000369,Cliente 000369,cliente000369@example.com,+526227046160,Cancún,QROO,silver,2026-03-11 01:43:40,True
+CUST000370,Cliente 000370,cliente000370@example.com,+524184611760,Puebla,PUE,platinum,2025-01-12 21:50:27,True
+CUST000371,Cliente 000371,cliente000371@example.com,+526510697299,Cancún,QROO,platinum,2025-06-08 20:24:04,True
+CUST000372,Cliente 000372,cliente000372@example.com,+529086615744,Puebla,PUE,platinum,2025-07-23 03:51:43,True
+CUST000373,Cliente 000373,cliente000373@example.com,+524927019611,Tijuana,BC,gold,2025-09-06 17:34:51,True
+CUST000374,Cliente 000374,cliente000374@example.com,+521626733282,Querétaro,QRO,gold,2025-02-05 12:11:51,False
+CUST000375,Cliente 000375,cliente000375@example.com,+526137604603,Puebla,PUE,silver,2025-04-29 09:09:16,False
+CUST000376,Cliente 000376,cliente000376@example.com,+528236361108,Cancún,QROO,gold,2025-07-10 20:44:22,False
+CUST000377,Cliente 000377,cliente000377@example.com,+528709361138,Tijuana,BC,silver,2025-12-24 22:28:30,True
+CUST000378,Cliente 000378,cliente000378@example.com,+525111301175,León,GTO,bronze,2026-01-15 06:52:33,True
+CUST000379,Cliente 000379,cliente000379@example.com,+522771211118,Oaxaca,OAX,silver,2025-01-05 23:00:11,True
+CUST000380,Cliente 000380,cliente000380@example.com,+527253513875,Guadalajara,JAL,bronze,2025-01-08 02:24:33,False
+CUST000381,Cliente 000381,cliente000381@example.com,+529618334441,Tijuana,BC,platinum,2025-01-13 05:15:41,True
+CUST000382,Cliente 000382,cliente000382@example.com,+528396761430,Oaxaca,OAX,gold,2026-02-16 05:03:36,True
+CUST000383,Cliente 000383,cliente000383@example.com,+524907446848,León,GTO,bronze,2025-12-01 10:27:58,True
+CUST000384,Cliente 000384,cliente000384@example.com,+522034953269,León,GTO,gold,2025-04-26 15:39:01,True
+CUST000385,Cliente 000385,cliente000385@example.com,+525634352383,Puebla,PUE,platinum,2025-11-05 06:41:08,False
+CUST000386,Cliente 000386,cliente000386@example.com,+526265016831,Cancún,QROO,bronze,2025-07-08 21:43:25,True
+CUST000387,Cliente 000387,cliente000387@example.com,+526923893872,Ciudad de México,CDMX,platinum,2025-11-11 18:56:06,True
+CUST000388,Cliente 000388,cliente000388@example.com,+525650101484,Oaxaca,OAX,platinum,2025-05-14 02:49:17,True
+CUST000389,Cliente 000389,cliente000389@example.com,+524947728706,Cancún,QROO,silver,2025-03-16 01:40:24,True
+CUST000390,Cliente 000390,cliente000390@example.com,+522164344392,Cancún,QROO,bronze,2026-01-05 07:58:04,True
+CUST000391,Cliente 000391,cliente000391@example.com,+523826557688,León,GTO,silver,2026-03-14 16:35:06,True
+CUST000392,Cliente 000392,cliente000392@example.com,+523521300895,Oaxaca,OAX,platinum,2025-06-10 21:42:25,True
+CUST000393,Cliente 000393,cliente000393@example.com,+523422182038,Puebla,PUE,platinum,2025-05-07 04:17:31,True
+CUST000394,Cliente 000394,cliente000394@example.com,+529926778957,Querétaro,QRO,gold,2025-04-19 16:52:05,True
+CUST000395,Cliente 000395,cliente000395@example.com,+525621463184,Ciudad de México,CDMX,platinum,2025-12-06 11:54:56,True
+CUST000396,Cliente 000396,cliente000396@example.com,+527230065637,Oaxaca,OAX,silver,2025-08-01 07:11:06,True
+CUST000397,Cliente 000397,cliente000397@example.com,+522854772804,León,GTO,platinum,2025-10-19 14:27:59,True
+CUST000398,Cliente 000398,cliente000398@example.com,+524427620889,Cancún,QROO,bronze,2025-08-18 10:16:21,True
+CUST000399,Cliente 000399,cliente000399@example.com,+526968380957,Puebla,PUE,gold,2025-04-30 18:53:13,True
+CUST000400,Cliente 000400,cliente000400@example.com,+529344950649,Ciudad de México,CDMX,platinum,2025-01-05 00:50:45,True
+CUST000401,Cliente 000401,cliente000401@example.com,+521569113257,Puebla,PUE,silver,2025-03-21 09:43:54,False
+CUST000402,Cliente 000402,cliente000402@example.com,+522752536389,Tijuana,BC,bronze,2026-03-09 14:57:12,True
+CUST000403,Cliente 000403,cliente000403@example.com,+529989642546,Mérida,YUC,gold,2026-03-07 11:24:21,False
+CUST000404,Cliente 000404,cliente000404@example.com,+527072268003,Oaxaca,OAX,bronze,2025-08-15 16:25:44,True
+CUST000405,Cliente 000405,cliente000405@example.com,+522635231601,Cancún,QROO,silver,2026-02-09 18:05:33,True
+CUST000406,Cliente 000406,cliente000406@example.com,+523117951204,Puebla,PUE,bronze,2025-07-28 11:27:55,True
+CUST000407,Cliente 000407,cliente000407@example.com,+527103588071,Querétaro,QRO,platinum,2025-08-03 08:18:07,True
+CUST000408,Cliente 000408,cliente000408@example.com,+525055403877,Mérida,YUC,platinum,2025-07-15 12:01:23,True
+CUST000409,Cliente 000409,cliente000409@example.com,+525876890399,Tijuana,BC,bronze,2025-03-25 02:06:34,False
+CUST000410,Cliente 000410,cliente000410@example.com,+526710338189,Mérida,YUC,gold,2025-10-23 01:39:43,False
+CUST000411,Cliente 000411,cliente000411@example.com,+526585327015,Cancún,QROO,silver,2025-04-16 17:32:38,False
+CUST000412,Cliente 000412,cliente000412@example.com,+529437783771,Mérida,YUC,gold,2025-05-18 23:23:55,True
+CUST000413,Cliente 000413,cliente000413@example.com,+524358554365,Tijuana,BC,gold,2026-03-24 07:10:04,False
+CUST000414,Cliente 000414,cliente000414@example.com,+522567729816,Puebla,PUE,silver,2025-11-02 04:50:30,True
+CUST000415,Cliente 000415,cliente000415@example.com,+524042413312,León,GTO,platinum,2025-01-21 21:45:09,True
+CUST000416,Cliente 000416,cliente000416@example.com,+528185384294,Ciudad de México,CDMX,silver,2025-11-14 18:57:07,True
+CUST000417,Cliente 000417,cliente000417@example.com,+523828935922,Monterrey,NL,platinum,2025-07-16 06:19:40,False
+CUST000418,Cliente 000418,cliente000418@example.com,+528265834251,Ciudad de México,CDMX,bronze,2025-12-15 19:12:37,True
+CUST000419,Cliente 000419,cliente000419@example.com,+521364994639,León,GTO,silver,2026-04-07 05:36:21,True
+CUST000420,Cliente 000420,cliente000420@example.com,+528072709948,Guadalajara,JAL,gold,2025-02-04 09:45:00,False
+CUST000421,Cliente 000421,cliente000421@example.com,+525718479235,Ciudad de México,CDMX,silver,2025-01-09 04:37:29,True
+CUST000422,Cliente 000422,cliente000422@example.com,+526974875750,Tijuana,BC,silver,2025-10-18 14:05:39,True
+CUST000423,Cliente 000423,cliente000423@example.com,+525744003377,Oaxaca,OAX,platinum,2026-01-10 23:30:19,True
+CUST000424,Cliente 000424,cliente000424@example.com,+526791027463,Ciudad de México,CDMX,gold,2025-04-21 01:01:00,False
+CUST000425,Cliente 000425,cliente000425@example.com,+527369118672,Monterrey,NL,platinum,2026-02-09 18:17:04,True
+CUST000426,Cliente 000426,cliente000426@example.com,+522369705770,Tijuana,BC,gold,2025-12-18 10:13:37,True
+CUST000427,Cliente 000427,cliente000427@example.com,+528942167666,Ciudad de México,CDMX,bronze,2025-01-18 13:01:01,True
+CUST000428,Cliente 000428,cliente000428@example.com,+525982744929,Monterrey,NL,platinum,2026-02-05 18:49:24,False
+CUST000429,Cliente 000429,cliente000429@example.com,+523704799972,Monterrey,NL,silver,2025-11-11 14:37:53,False
+CUST000430,Cliente 000430,cliente000430@example.com,+524792874364,Querétaro,QRO,platinum,2025-01-23 16:11:00,False
+CUST000431,Cliente 000431,cliente000431@example.com,+524026816435,Querétaro,QRO,silver,2025-01-04 10:57:17,True
+CUST000432,Cliente 000432,cliente000432@example.com,+526097953682,Ciudad de México,CDMX,gold,2026-03-25 10:32:42,True
+CUST000433,Cliente 000433,cliente000433@example.com,+528999963054,Tijuana,BC,gold,2025-03-30 12:16:28,False
+CUST000434,Cliente 000434,cliente000434@example.com,+523521166052,Cancún,QROO,gold,2025-11-01 21:33:02,True
+CUST000435,Cliente 000435,cliente000435@example.com,+529953941533,Tijuana,BC,silver,2025-05-15 00:08:45,True
+CUST000436,Cliente 000436,cliente000436@example.com,+522311597141,Ciudad de México,CDMX,silver,2025-07-05 07:19:04,True
+CUST000437,Cliente 000437,cliente000437@example.com,+526963404324,Guadalajara,JAL,silver,2026-02-01 18:27:56,False
+CUST000438,Cliente 000438,cliente000438@example.com,+526011649263,Querétaro,QRO,gold,2025-05-25 06:41:59,True
+CUST000439,Cliente 000439,cliente000439@example.com,+528911266259,Guadalajara,JAL,bronze,2025-09-02 08:11:47,True
+CUST000440,Cliente 000440,cliente000440@example.com,+521586412136,Oaxaca,OAX,platinum,2026-01-12 09:45:54,False
+CUST000441,Cliente 000441,cliente000441@example.com,+528902275119,Querétaro,QRO,platinum,2026-01-17 22:26:05,True
+CUST000442,Cliente 000442,cliente000442@example.com,+524268713302,Ciudad de México,CDMX,gold,2026-03-16 03:46:44,True
+CUST000443,Cliente 000443,cliente000443@example.com,+527603978731,Puebla,PUE,silver,2025-06-24 15:23:06,False
+CUST000444,Cliente 000444,cliente000444@example.com,+525785481124,Cancún,QROO,gold,2026-01-20 17:18:35,True
+CUST000445,Cliente 000445,cliente000445@example.com,+522826025489,Tijuana,BC,silver,2026-03-01 08:45:47,True
+CUST000446,Cliente 000446,cliente000446@example.com,+526423750090,Oaxaca,OAX,bronze,2025-12-16 07:37:06,False
+CUST000447,Cliente 000447,cliente000447@example.com,+528254773516,Ciudad de México,CDMX,platinum,2025-07-04 00:59:40,True
+CUST000448,Cliente 000448,cliente000448@example.com,+524370902138,Cancún,QROO,silver,2025-04-19 03:31:40,True
+CUST000449,Cliente 000449,cliente000449@example.com,+527581095906,Cancún,QROO,silver,2025-09-30 11:40:28,True
+CUST000450,Cliente 000450,cliente000450@example.com,+527754847890,Puebla,PUE,bronze,2025-08-13 17:33:45,True
+CUST000451,Cliente 000451,cliente000451@example.com,+529557663181,Querétaro,QRO,silver,2025-02-16 01:10:08,True
+CUST000452,Cliente 000452,cliente000452@example.com,+528350384902,Monterrey,NL,silver,2025-04-24 14:10:31,False
+CUST000453,Cliente 000453,cliente000453@example.com,+527074050517,Tijuana,BC,platinum,2025-04-21 10:16:16,True
+CUST000454,Cliente 000454,cliente000454@example.com,+526880115912,Ciudad de México,CDMX,platinum,2025-11-09 21:40:57,True
+CUST000455,Cliente 000455,cliente000455@example.com,+529989974968,Cancún,QROO,platinum,2025-01-02 22:06:05,True
+CUST000456,Cliente 000456,cliente000456@example.com,+522708176663,Ciudad de México,CDMX,platinum,2026-02-20 02:23:38,True
+CUST000457,Cliente 000457,cliente000457@example.com,+526512990303,Tijuana,BC,silver,2025-07-28 13:53:22,False
+CUST000458,Cliente 000458,cliente000458@example.com,+521197323378,Mérida,YUC,platinum,2025-02-07 14:24:50,True
+CUST000459,Cliente 000459,cliente000459@example.com,+527190276026,Ciudad de México,CDMX,bronze,2025-05-03 17:01:34,False
+CUST000460,Cliente 000460,cliente000460@example.com,+522296502486,Monterrey,NL,gold,2025-04-13 11:02:17,True
+CUST000461,Cliente 000461,cliente000461@example.com,+525648960780,Mérida,YUC,silver,2025-07-14 11:35:40,True
+CUST000462,Cliente 000462,cliente000462@example.com,+524243697409,Querétaro,QRO,platinum,2025-08-26 07:06:18,True
+CUST000463,Cliente 000463,cliente000463@example.com,+526211604267,Ciudad de México,CDMX,bronze,2025-01-01 20:15:00,True
+CUST000464,Cliente 000464,cliente000464@example.com,+522911547690,Cancún,QROO,bronze,2025-06-25 16:30:11,True
+CUST000465,Cliente 000465,cliente000465@example.com,+523980840461,Ciudad de México,CDMX,platinum,2025-11-25 00:30:08,True
+CUST000466,Cliente 000466,cliente000466@example.com,+529973608649,Monterrey,NL,bronze,2025-10-25 12:56:27,True
+CUST000467,Cliente 000467,cliente000467@example.com,+529078786223,Mérida,YUC,silver,2025-10-13 11:50:47,False
+CUST000468,Cliente 000468,cliente000468@example.com,+529883760207,Guadalajara,JAL,bronze,2025-04-21 22:58:27,True
+CUST000469,Cliente 000469,cliente000469@example.com,+524102821948,Tijuana,BC,silver,2025-09-30 18:36:48,False
+CUST000470,Cliente 000470,cliente000470@example.com,+524693510920,Cancún,QROO,bronze,2025-12-10 14:37:58,True
+CUST000471,Cliente 000471,cliente000471@example.com,+526944371787,Guadalajara,JAL,platinum,2025-04-06 15:49:01,True
+CUST000472,Cliente 000472,cliente000472@example.com,+521361845490,Guadalajara,JAL,gold,2025-07-12 11:04:22,True
+CUST000473,Cliente 000473,cliente000473@example.com,+523188382776,Puebla,PUE,platinum,2025-06-09 13:47:08,True
+CUST000474,Cliente 000474,cliente000474@example.com,+527420493866,Oaxaca,OAX,bronze,2025-07-05 21:38:27,True
+CUST000475,Cliente 000475,cliente000475@example.com,+529894928830,Tijuana,BC,bronze,2026-04-07 07:39:12,True
+CUST000476,Cliente 000476,cliente000476@example.com,+527102562415,Mérida,YUC,silver,2025-04-13 12:20:21,False
+CUST000477,Cliente 000477,cliente000477@example.com,+523522707023,Ciudad de México,CDMX,bronze,2025-01-13 23:06:46,True
+CUST000478,Cliente 000478,cliente000478@example.com,+524962447893,Monterrey,NL,platinum,2025-01-31 22:25:35,True
+CUST000479,Cliente 000479,cliente000479@example.com,+522727768349,León,GTO,silver,2025-11-19 16:12:49,True
+CUST000480,Cliente 000480,cliente000480@example.com,+529929329605,Ciudad de México,CDMX,silver,2025-08-29 17:04:59,True
+CUST000481,Cliente 000481,cliente000481@example.com,+525578929439,León,GTO,platinum,2025-09-11 19:04:01,True
+CUST000482,Cliente 000482,cliente000482@example.com,+522866092821,Oaxaca,OAX,platinum,2025-07-09 21:25:58,True
+CUST000483,Cliente 000483,cliente000483@example.com,+521513003815,Puebla,PUE,silver,2025-05-17 10:16:37,True
+CUST000484,Cliente 000484,cliente000484@example.com,+529388140708,Guadalajara,JAL,gold,2026-01-21 13:48:27,True
+CUST000485,Cliente 000485,cliente000485@example.com,+529046449694,Mérida,YUC,bronze,2025-04-09 14:09:28,True
+CUST000486,Cliente 000486,cliente000486@example.com,+525569295400,Mérida,YUC,bronze,2025-11-30 11:11:24,False
+CUST000487,Cliente 000487,cliente000487@example.com,+522546720356,Tijuana,BC,platinum,2026-02-01 17:39:51,True
+CUST000488,Cliente 000488,cliente000488@example.com,+524104309491,Mérida,YUC,silver,2025-05-03 04:28:14,True
+CUST000489,Cliente 000489,cliente000489@example.com,+522050340486,Oaxaca,OAX,platinum,2025-01-10 13:03:58,True
+CUST000490,Cliente 000490,cliente000490@example.com,+529741819989,Querétaro,QRO,platinum,2025-04-27 13:46:51,True
+CUST000491,Cliente 000491,cliente000491@example.com,+528388580360,Mérida,YUC,gold,2025-07-12 19:57:40,True
+CUST000492,Cliente 000492,cliente000492@example.com,+521226225156,Cancún,QROO,silver,2025-10-17 13:38:52,True
+CUST000493,Cliente 000493,cliente000493@example.com,+529061615990,Querétaro,QRO,gold,2025-02-23 12:52:54,True
+CUST000494,Cliente 000494,cliente000494@example.com,+527670476743,Mérida,YUC,bronze,2025-03-09 02:20:34,True
+CUST000495,Cliente 000495,cliente000495@example.com,+523674551397,Monterrey,NL,platinum,2025-08-15 11:43:35,True
+CUST000496,Cliente 000496,cliente000496@example.com,+524332404822,Cancún,QROO,silver,2026-01-19 04:54:34,True
+CUST000497,Cliente 000497,cliente000497@example.com,+521102693781,Oaxaca,OAX,gold,2025-11-15 11:37:37,True
+CUST000498,Cliente 000498,cliente000498@example.com,+522320748157,Mérida,YUC,silver,2025-01-02 03:15:15,True
+CUST000499,Cliente 000499,cliente000499@example.com,+525128258411,Querétaro,QRO,silver,2026-01-18 04:04:58,True
+CUST000500,Cliente 000500,cliente000500@example.com,+524956843441,Ciudad de México,CDMX,platinum,2025-02-04 02:21:36,True
+CUST000501,Cliente 000501,cliente000501@example.com,+523494390866,Tijuana,BC,silver,2025-03-07 22:41:44,False
+CUST000502,Cliente 000502,cliente000502@example.com,+523438771483,Ciudad de México,CDMX,platinum,2026-04-05 17:44:12,True
+CUST000503,Cliente 000503,cliente000503@example.com,+528734449371,Monterrey,NL,gold,2025-08-15 13:14:06,True
+CUST000504,Cliente 000504,cliente000504@example.com,+522003352579,Tijuana,BC,silver,2025-07-31 05:37:29,True
+CUST000505,Cliente 000505,cliente000505@example.com,+521667483244,Cancún,QROO,silver,2025-03-26 15:24:03,False
+CUST000506,Cliente 000506,cliente000506@example.com,+522745958114,Tijuana,BC,gold,2025-09-01 22:00:17,True
+CUST000507,Cliente 000507,cliente000507@example.com,+527285025763,Tijuana,BC,bronze,2025-08-28 11:16:20,True
+CUST000508,Cliente 000508,cliente000508@example.com,+521173215225,Guadalajara,JAL,gold,2025-08-25 06:58:41,True
+CUST000509,Cliente 000509,cliente000509@example.com,+529454213661,Ciudad de México,CDMX,platinum,2025-07-12 19:08:00,True
+CUST000510,Cliente 000510,cliente000510@example.com,+521746756255,Puebla,PUE,platinum,2025-07-22 01:51:37,False
+CUST000511,Cliente 000511,cliente000511@example.com,+522073108894,León,GTO,platinum,2026-03-04 06:59:48,True
+CUST000512,Cliente 000512,cliente000512@example.com,+521051354601,Guadalajara,JAL,silver,2025-04-05 08:03:10,True
+CUST000513,Cliente 000513,cliente000513@example.com,+523768901084,Monterrey,NL,gold,2025-11-08 03:23:10,True
+CUST000514,Cliente 000514,cliente000514@example.com,+528069459895,Oaxaca,OAX,silver,2025-02-20 01:50:45,True
+CUST000515,Cliente 000515,cliente000515@example.com,+522979958124,Mérida,YUC,silver,2025-04-06 04:04:52,False
+CUST000516,Cliente 000516,cliente000516@example.com,+525421592782,Querétaro,QRO,platinum,2026-01-21 08:27:58,True
+CUST000517,Cliente 000517,cliente000517@example.com,+524901136913,Mérida,YUC,gold,2025-06-16 18:35:53,True
+CUST000518,Cliente 000518,cliente000518@example.com,+529738752801,Tijuana,BC,silver,2025-04-26 10:41:25,True
+CUST000519,Cliente 000519,cliente000519@example.com,+523057422183,Tijuana,BC,bronze,2025-11-17 00:05:28,True
+CUST000520,Cliente 000520,cliente000520@example.com,+522800599868,Querétaro,QRO,silver,2025-04-17 14:15:53,True
+CUST000521,Cliente 000521,cliente000521@example.com,+528651205525,Querétaro,QRO,gold,2025-10-06 22:20:05,True
+CUST000522,Cliente 000522,cliente000522@example.com,+521772303297,Querétaro,QRO,gold,2025-07-30 01:17:11,True
+CUST000523,Cliente 000523,cliente000523@example.com,+529553561889,Oaxaca,OAX,gold,2025-08-07 04:57:52,True
+CUST000524,Cliente 000524,cliente000524@example.com,+526330710675,Guadalajara,JAL,bronze,2025-03-19 18:38:21,True
+CUST000525,Cliente 000525,cliente000525@example.com,+524630196130,Cancún,QROO,silver,2025-10-29 16:43:14,True
+CUST000526,Cliente 000526,cliente000526@example.com,+528291250562,Cancún,QROO,bronze,2025-09-05 00:01:51,True
+CUST000527,Cliente 000527,cliente000527@example.com,+525073211715,Cancún,QROO,platinum,2026-03-14 18:23:11,True
+CUST000528,Cliente 000528,cliente000528@example.com,+521163053047,Guadalajara,JAL,bronze,2026-01-16 22:23:51,True
+CUST000529,Cliente 000529,cliente000529@example.com,+529675524665,Cancún,QROO,platinum,2025-06-19 22:53:39,True
+CUST000530,Cliente 000530,cliente000530@example.com,+524463656690,Mérida,YUC,gold,2025-06-06 11:34:05,True
+CUST000531,Cliente 000531,cliente000531@example.com,+521094115188,Mérida,YUC,silver,2025-02-16 06:12:13,True
+CUST000532,Cliente 000532,cliente000532@example.com,+525125568431,León,GTO,gold,2025-10-11 10:02:23,False
+CUST000533,Cliente 000533,cliente000533@example.com,+526740486093,Cancún,QROO,gold,2025-03-20 11:22:34,True
+CUST000534,Cliente 000534,cliente000534@example.com,+529420979586,Guadalajara,JAL,gold,2025-12-06 07:49:00,True
+CUST000535,Cliente 000535,cliente000535@example.com,+526048096802,León,GTO,gold,2025-10-05 03:42:37,True
+CUST000536,Cliente 000536,cliente000536@example.com,+524130305126,Guadalajara,JAL,platinum,2025-05-19 00:43:21,True
+CUST000537,Cliente 000537,cliente000537@example.com,+523625862062,Guadalajara,JAL,bronze,2026-04-13 21:20:19,False
+CUST000538,Cliente 000538,cliente000538@example.com,+524201225242,Guadalajara,JAL,silver,2025-09-15 05:25:36,True
+CUST000539,Cliente 000539,cliente000539@example.com,+525136395494,Mérida,YUC,gold,2025-05-11 09:38:53,False
+CUST000540,Cliente 000540,cliente000540@example.com,+521900587144,Oaxaca,OAX,bronze,2025-07-25 23:55:05,True
+CUST000541,Cliente 000541,cliente000541@example.com,+524094152811,Puebla,PUE,bronze,2025-03-25 21:54:39,False
+CUST000542,Cliente 000542,cliente000542@example.com,+525162260671,Tijuana,BC,platinum,2025-11-22 22:54:11,False
+CUST000543,Cliente 000543,cliente000543@example.com,+527640122370,Querétaro,QRO,bronze,2025-09-30 19:25:24,False
+CUST000544,Cliente 000544,cliente000544@example.com,+525993571693,Cancún,QROO,bronze,2025-06-25 05:10:00,True
+CUST000545,Cliente 000545,cliente000545@example.com,+526663846005,Puebla,PUE,bronze,2025-01-16 14:16:51,True
+CUST000546,Cliente 000546,cliente000546@example.com,+529108603060,Mérida,YUC,silver,2025-05-13 02:59:26,True
+CUST000547,Cliente 000547,cliente000547@example.com,+529131344493,León,GTO,bronze,2025-03-14 07:35:49,False
+CUST000548,Cliente 000548,cliente000548@example.com,+529116428507,Guadalajara,JAL,silver,2026-04-17 17:13:15,True
+CUST000549,Cliente 000549,cliente000549@example.com,+526110943464,Ciudad de México,CDMX,gold,2025-09-15 04:03:01,True
+CUST000550,Cliente 000550,cliente000550@example.com,+521411955771,Puebla,PUE,platinum,2025-07-04 12:13:15,False
+CUST000551,Cliente 000551,cliente000551@example.com,+522549748436,Guadalajara,JAL,platinum,2025-02-12 08:02:38,True
+CUST000552,Cliente 000552,cliente000552@example.com,+523062994753,Puebla,PUE,bronze,2026-04-12 04:49:42,True
+CUST000553,Cliente 000553,cliente000553@example.com,+528035975297,Monterrey,NL,bronze,2025-05-13 16:32:34,False
+CUST000554,Cliente 000554,cliente000554@example.com,+528665986525,Ciudad de México,CDMX,platinum,2025-08-28 12:07:26,False
+CUST000555,Cliente 000555,cliente000555@example.com,+522664416298,Puebla,PUE,gold,2025-03-12 18:54:52,False
+CUST000556,Cliente 000556,cliente000556@example.com,+522914590233,Mérida,YUC,gold,2025-05-25 22:09:29,False
+CUST000557,Cliente 000557,cliente000557@example.com,+521264739091,Tijuana,BC,bronze,2025-07-24 14:08:49,True
+CUST000558,Cliente 000558,cliente000558@example.com,+527539441086,Mérida,YUC,platinum,2026-02-25 13:20:27,True
+CUST000559,Cliente 000559,cliente000559@example.com,+525634076661,Tijuana,BC,bronze,2025-08-21 03:00:25,True
+CUST000560,Cliente 000560,cliente000560@example.com,+525227828349,Ciudad de México,CDMX,silver,2025-12-15 18:42:26,True
+CUST000561,Cliente 000561,cliente000561@example.com,+522818381356,Guadalajara,JAL,platinum,2025-02-03 03:32:11,True
+CUST000562,Cliente 000562,cliente000562@example.com,+526402580787,Guadalajara,JAL,bronze,2026-04-08 04:29:32,True
+CUST000563,Cliente 000563,cliente000563@example.com,+524751509023,Querétaro,QRO,platinum,2026-03-09 03:22:49,True
+CUST000564,Cliente 000564,cliente000564@example.com,+525035765954,Querétaro,QRO,bronze,2025-04-27 05:32:06,True
+CUST000565,Cliente 000565,cliente000565@example.com,+529075121701,Puebla,PUE,platinum,2026-02-21 00:55:54,True
+CUST000566,Cliente 000566,cliente000566@example.com,+523031719772,Querétaro,QRO,silver,2026-01-13 03:57:23,True
+CUST000567,Cliente 000567,cliente000567@example.com,+522725373847,Querétaro,QRO,platinum,2025-04-22 17:36:29,True
+CUST000568,Cliente 000568,cliente000568@example.com,+528497938394,Monterrey,NL,gold,2025-02-08 06:51:01,True
+CUST000569,Cliente 000569,cliente000569@example.com,+526596578419,Oaxaca,OAX,gold,2025-09-20 10:16:48,False
+CUST000570,Cliente 000570,cliente000570@example.com,+525872148707,Ciudad de México,CDMX,platinum,2025-06-27 01:26:03,True
+CUST000571,Cliente 000571,cliente000571@example.com,+521383484123,Puebla,PUE,platinum,2025-11-20 17:12:24,True
+CUST000572,Cliente 000572,cliente000572@example.com,+529019515562,Querétaro,QRO,bronze,2026-01-12 06:59:42,True
+CUST000573,Cliente 000573,cliente000573@example.com,+522732526008,Ciudad de México,CDMX,bronze,2025-08-30 15:45:17,True
+CUST000574,Cliente 000574,cliente000574@example.com,+524594787485,Monterrey,NL,silver,2025-06-05 21:49:05,True
+CUST000575,Cliente 000575,cliente000575@example.com,+529237880732,Tijuana,BC,silver,2025-02-09 06:29:35,True
+CUST000576,Cliente 000576,cliente000576@example.com,+527464468567,Mérida,YUC,bronze,2025-12-27 13:39:33,True
+CUST000577,Cliente 000577,cliente000577@example.com,+522915999663,Monterrey,NL,platinum,2025-10-17 07:17:01,True
+CUST000578,Cliente 000578,cliente000578@example.com,+525683197659,Mérida,YUC,bronze,2025-05-08 00:06:52,False
+CUST000579,Cliente 000579,cliente000579@example.com,+526182870116,Oaxaca,OAX,platinum,2025-05-07 12:48:50,True
+CUST000580,Cliente 000580,cliente000580@example.com,+524914929023,Oaxaca,OAX,silver,2026-01-04 05:48:44,True
+CUST000581,Cliente 000581,cliente000581@example.com,+529345142789,Monterrey,NL,gold,2025-07-16 00:53:55,False
+CUST000582,Cliente 000582,cliente000582@example.com,+527266348777,Querétaro,QRO,silver,2025-09-28 20:24:38,False
+CUST000583,Cliente 000583,cliente000583@example.com,+521439427140,Puebla,PUE,gold,2026-02-09 09:23:37,True
+CUST000584,Cliente 000584,cliente000584@example.com,+523069050782,Puebla,PUE,gold,2025-03-25 23:12:52,True
+CUST000585,Cliente 000585,cliente000585@example.com,+522283298067,Mérida,YUC,silver,2025-08-04 01:30:33,True
+CUST000586,Cliente 000586,cliente000586@example.com,+529699264134,Oaxaca,OAX,platinum,2026-04-12 01:25:53,True
+CUST000587,Cliente 000587,cliente000587@example.com,+527032706313,Puebla,PUE,bronze,2025-11-22 02:37:47,True
+CUST000588,Cliente 000588,cliente000588@example.com,+523397657114,Mérida,YUC,gold,2025-06-22 17:09:01,True
+CUST000589,Cliente 000589,cliente000589@example.com,+528477189726,Tijuana,BC,silver,2025-04-10 09:03:05,True
+CUST000590,Cliente 000590,cliente000590@example.com,+522525930586,Ciudad de México,CDMX,gold,2025-06-22 15:06:20,False
+CUST000591,Cliente 000591,cliente000591@example.com,+526557907251,Mérida,YUC,bronze,2025-10-16 16:39:45,False
+CUST000592,Cliente 000592,cliente000592@example.com,+523665691647,Oaxaca,OAX,platinum,2026-03-30 06:37:09,True
+CUST000593,Cliente 000593,cliente000593@example.com,+526576395496,León,GTO,bronze,2025-04-04 01:31:51,True
+CUST000594,Cliente 000594,cliente000594@example.com,+526766723248,Guadalajara,JAL,platinum,2025-06-05 13:47:56,True
+CUST000595,Cliente 000595,cliente000595@example.com,+524345526911,Mérida,YUC,platinum,2025-05-21 02:05:37,True
+CUST000596,Cliente 000596,cliente000596@example.com,+523725152347,Guadalajara,JAL,bronze,2025-09-01 10:27:42,False
+CUST000597,Cliente 000597,cliente000597@example.com,+524283432667,Puebla,PUE,platinum,2025-06-12 15:10:12,True
+CUST000598,Cliente 000598,cliente000598@example.com,+528015775567,Guadalajara,JAL,platinum,2025-12-03 20:58:00,False
+CUST000599,Cliente 000599,cliente000599@example.com,+521020053819,Tijuana,BC,silver,2025-10-25 17:32:09,True
+CUST000600,Cliente 000600,cliente000600@example.com,+523280772748,Oaxaca,OAX,bronze,2025-09-08 06:29:17,True
+CUST000601,Cliente 000601,cliente000601@example.com,+526773938304,Monterrey,NL,silver,2025-06-25 17:53:54,True
+CUST000602,Cliente 000602,cliente000602@example.com,+527823288650,Querétaro,QRO,silver,2026-01-26 22:52:19,True
+CUST000603,Cliente 000603,cliente000603@example.com,+529368586475,Oaxaca,OAX,platinum,2025-08-20 14:53:34,True
+CUST000604,Cliente 000604,cliente000604@example.com,+529166381136,Querétaro,QRO,gold,2025-04-14 22:00:56,True
+CUST000605,Cliente 000605,cliente000605@example.com,+521082140117,Guadalajara,JAL,silver,2025-11-10 07:45:55,True
+CUST000606,Cliente 000606,cliente000606@example.com,+521725783958,Monterrey,NL,gold,2025-01-18 00:29:34,True
+CUST000607,Cliente 000607,cliente000607@example.com,+523676343517,Querétaro,QRO,bronze,2025-07-18 16:15:20,True
+CUST000608,Cliente 000608,cliente000608@example.com,+523962452613,Oaxaca,OAX,platinum,2025-02-07 11:09:59,False
+CUST000609,Cliente 000609,cliente000609@example.com,+527645527239,Querétaro,QRO,platinum,2025-04-06 23:58:44,True
+CUST000610,Cliente 000610,cliente000610@example.com,+526588252632,Monterrey,NL,bronze,2025-01-08 05:26:57,True
+CUST000611,Cliente 000611,cliente000611@example.com,+524009596757,Cancún,QROO,platinum,2026-04-16 09:50:32,True
+CUST000612,Cliente 000612,cliente000612@example.com,+522214216328,León,GTO,bronze,2025-04-02 10:43:53,False
+CUST000613,Cliente 000613,cliente000613@example.com,+526161147047,Monterrey,NL,platinum,2026-04-19 00:36:59,True
+CUST000614,Cliente 000614,cliente000614@example.com,+527649205361,Guadalajara,JAL,silver,2025-01-31 14:34:32,False
+CUST000615,Cliente 000615,cliente000615@example.com,+521011759631,Mérida,YUC,bronze,2025-07-02 03:29:42,True
+CUST000616,Cliente 000616,cliente000616@example.com,+523197757742,Cancún,QROO,bronze,2026-01-19 18:46:00,True
+CUST000617,Cliente 000617,cliente000617@example.com,+526566372886,Monterrey,NL,platinum,2025-12-21 18:27:36,True
+CUST000618,Cliente 000618,cliente000618@example.com,+524754404646,Ciudad de México,CDMX,gold,2025-05-16 16:40:39,True
+CUST000619,Cliente 000619,cliente000619@example.com,+524172006012,Mérida,YUC,bronze,2025-11-27 21:07:34,True
+CUST000620,Cliente 000620,cliente000620@example.com,+526027311960,Oaxaca,OAX,gold,2025-04-18 11:51:33,False
+CUST000621,Cliente 000621,cliente000621@example.com,+525694190173,Cancún,QROO,gold,2025-07-28 09:38:58,True
+CUST000622,Cliente 000622,cliente000622@example.com,+527255786047,Ciudad de México,CDMX,platinum,2025-11-08 07:02:03,False
+CUST000623,Cliente 000623,cliente000623@example.com,+521485574228,Querétaro,QRO,bronze,2025-05-10 12:58:51,True
+CUST000624,Cliente 000624,cliente000624@example.com,+522881894932,Ciudad de México,CDMX,platinum,2025-11-20 03:19:07,True
+CUST000625,Cliente 000625,cliente000625@example.com,+524830092090,Cancún,QROO,platinum,2025-01-23 09:10:24,False
+CUST000626,Cliente 000626,cliente000626@example.com,+522892740043,Ciudad de México,CDMX,bronze,2025-11-16 10:53:39,True
+CUST000627,Cliente 000627,cliente000627@example.com,+523426709025,Mérida,YUC,gold,2025-01-10 14:24:39,True
+CUST000628,Cliente 000628,cliente000628@example.com,+527364839489,Querétaro,QRO,platinum,2025-07-13 01:48:39,True
+CUST000629,Cliente 000629,cliente000629@example.com,+529639948905,León,GTO,silver,2025-02-12 09:11:10,False
+CUST000630,Cliente 000630,cliente000630@example.com,+527406579219,Tijuana,BC,silver,2025-05-09 11:21:06,True
+CUST000631,Cliente 000631,cliente000631@example.com,+523177244907,Puebla,PUE,platinum,2025-02-09 02:36:19,False
+CUST000632,Cliente 000632,cliente000632@example.com,+527266763552,Monterrey,NL,platinum,2025-03-03 05:30:31,True
+CUST000633,Cliente 000633,cliente000633@example.com,+522357473928,Tijuana,BC,platinum,2025-12-14 05:57:13,True
+CUST000634,Cliente 000634,cliente000634@example.com,+522770980600,Ciudad de México,CDMX,bronze,2025-11-10 08:39:37,True
+CUST000635,Cliente 000635,cliente000635@example.com,+523415200001,Cancún,QROO,platinum,2025-08-25 14:07:02,True
+CUST000636,Cliente 000636,cliente000636@example.com,+524507221724,Mérida,YUC,platinum,2025-02-12 03:45:47,True
+CUST000637,Cliente 000637,cliente000637@example.com,+528117478955,León,GTO,platinum,2026-04-11 23:54:00,True
+CUST000638,Cliente 000638,cliente000638@example.com,+525304403129,Ciudad de México,CDMX,gold,2025-06-22 05:39:56,True
+CUST000639,Cliente 000639,cliente000639@example.com,+521456650521,León,GTO,silver,2026-02-10 10:30:26,False
+CUST000640,Cliente 000640,cliente000640@example.com,+525754363475,Guadalajara,JAL,silver,2025-11-14 20:14:29,True
+CUST000641,Cliente 000641,cliente000641@example.com,+526220917178,Ciudad de México,CDMX,silver,2025-11-02 04:07:17,True
+CUST000642,Cliente 000642,cliente000642@example.com,+529125023089,Ciudad de México,CDMX,platinum,2025-11-18 22:17:14,True
+CUST000643,Cliente 000643,cliente000643@example.com,+529798548049,Tijuana,BC,platinum,2025-01-04 08:51:33,False
+CUST000644,Cliente 000644,cliente000644@example.com,+524501446994,León,GTO,bronze,2025-05-18 15:17:34,False
+CUST000645,Cliente 000645,cliente000645@example.com,+529086117171,Cancún,QROO,platinum,2026-04-16 19:39:20,False
+CUST000646,Cliente 000646,cliente000646@example.com,+526470052645,Cancún,QROO,gold,2025-07-12 19:30:23,True
+CUST000647,Cliente 000647,cliente000647@example.com,+525888445909,Tijuana,BC,gold,2025-04-14 14:13:52,True
+CUST000648,Cliente 000648,cliente000648@example.com,+521862812038,León,GTO,gold,2025-06-18 19:33:32,True
+CUST000649,Cliente 000649,cliente000649@example.com,+528934097788,Guadalajara,JAL,bronze,2025-05-19 02:40:08,True
+CUST000650,Cliente 000650,cliente000650@example.com,+521624173500,Oaxaca,OAX,bronze,2025-10-23 19:56:14,True
+CUST000651,Cliente 000651,cliente000651@example.com,+529519206782,Puebla,PUE,gold,2025-05-06 00:03:11,True
+CUST000652,Cliente 000652,cliente000652@example.com,+523324316421,Oaxaca,OAX,gold,2025-08-18 05:49:08,False
+CUST000653,Cliente 000653,cliente000653@example.com,+524714465905,Ciudad de México,CDMX,platinum,2026-03-13 10:17:42,True
+CUST000654,Cliente 000654,cliente000654@example.com,+526933852220,León,GTO,platinum,2025-08-12 09:58:23,True
+CUST000655,Cliente 000655,cliente000655@example.com,+529645619869,León,GTO,gold,2025-02-11 18:56:44,True
+CUST000656,Cliente 000656,cliente000656@example.com,+524564751926,Cancún,QROO,gold,2025-12-11 03:18:31,True
+CUST000657,Cliente 000657,cliente000657@example.com,+522927645417,Monterrey,NL,bronze,2025-08-17 11:52:12,True
+CUST000658,Cliente 000658,cliente000658@example.com,+525807588013,Guadalajara,JAL,bronze,2026-02-04 02:47:58,False
+CUST000659,Cliente 000659,cliente000659@example.com,+522134900434,Puebla,PUE,silver,2026-03-09 07:45:01,True
+CUST000660,Cliente 000660,cliente000660@example.com,+525026508020,Oaxaca,OAX,bronze,2025-09-14 18:08:13,True
+CUST000661,Cliente 000661,cliente000661@example.com,+528137764127,Mérida,YUC,platinum,2026-04-09 14:39:21,True
+CUST000662,Cliente 000662,cliente000662@example.com,+523256554634,Ciudad de México,CDMX,silver,2025-09-04 21:19:16,True
+CUST000663,Cliente 000663,cliente000663@example.com,+527601519165,León,GTO,bronze,2025-05-04 18:52:52,True
+CUST000664,Cliente 000664,cliente000664@example.com,+528143967196,Monterrey,NL,gold,2025-06-15 17:12:11,True
+CUST000665,Cliente 000665,cliente000665@example.com,+523788722772,Puebla,PUE,bronze,2025-06-19 16:06:54,True
+CUST000666,Cliente 000666,cliente000666@example.com,+523667740351,Tijuana,BC,bronze,2025-07-06 16:24:32,True
+CUST000667,Cliente 000667,cliente000667@example.com,+526952291828,Querétaro,QRO,gold,2025-03-30 01:26:42,True
+CUST000668,Cliente 000668,cliente000668@example.com,+527479970041,León,GTO,platinum,2025-10-19 05:43:28,True
+CUST000669,Cliente 000669,cliente000669@example.com,+521412129737,Puebla,PUE,bronze,2025-05-30 12:41:27,True
+CUST000670,Cliente 000670,cliente000670@example.com,+521446362270,Monterrey,NL,platinum,2025-06-15 13:52:20,True
+CUST000671,Cliente 000671,cliente000671@example.com,+522424706705,Guadalajara,JAL,bronze,2025-01-19 10:47:13,True
+CUST000672,Cliente 000672,cliente000672@example.com,+528706093841,Oaxaca,OAX,bronze,2025-05-19 06:00:51,True
+CUST000673,Cliente 000673,cliente000673@example.com,+526961554653,Puebla,PUE,platinum,2025-11-13 14:49:32,False
+CUST000674,Cliente 000674,cliente000674@example.com,+529615270274,Mérida,YUC,bronze,2025-01-14 02:52:13,True
+CUST000675,Cliente 000675,cliente000675@example.com,+525750815980,Ciudad de México,CDMX,gold,2025-10-05 20:00:49,True
+CUST000676,Cliente 000676,cliente000676@example.com,+526933126143,Puebla,PUE,bronze,2025-12-06 22:52:29,False
+CUST000677,Cliente 000677,cliente000677@example.com,+521944316108,Guadalajara,JAL,platinum,2026-02-19 08:33:35,True
+CUST000678,Cliente 000678,cliente000678@example.com,+525077921573,Guadalajara,JAL,silver,2025-08-20 12:10:33,True
+CUST000679,Cliente 000679,cliente000679@example.com,+525660584367,Oaxaca,OAX,silver,2025-01-04 21:45:46,True
+CUST000680,Cliente 000680,cliente000680@example.com,+521611840071,Monterrey,NL,silver,2025-11-17 12:26:14,True
+CUST000681,Cliente 000681,cliente000681@example.com,+521834624758,Cancún,QROO,silver,2025-07-16 07:26:53,True
+CUST000682,Cliente 000682,cliente000682@example.com,+525609120848,León,GTO,bronze,2025-12-25 06:36:23,True
+CUST000683,Cliente 000683,cliente000683@example.com,+526715961218,Ciudad de México,CDMX,silver,2025-06-03 08:07:50,True
+CUST000684,Cliente 000684,cliente000684@example.com,+523660800029,Ciudad de México,CDMX,silver,2025-08-10 11:20:29,True
+CUST000685,Cliente 000685,cliente000685@example.com,+528127164297,Tijuana,BC,silver,2025-12-17 00:38:59,True
+CUST000686,Cliente 000686,cliente000686@example.com,+521724301196,Mérida,YUC,gold,2025-11-29 16:13:42,True
+CUST000687,Cliente 000687,cliente000687@example.com,+522543980627,Monterrey,NL,gold,2025-12-05 17:56:30,False
+CUST000688,Cliente 000688,cliente000688@example.com,+526606958660,Tijuana,BC,bronze,2025-12-12 22:04:27,True
+CUST000689,Cliente 000689,cliente000689@example.com,+528910440683,Cancún,QROO,silver,2025-03-05 16:06:01,True
+CUST000690,Cliente 000690,cliente000690@example.com,+524124268175,Puebla,PUE,bronze,2025-03-01 09:21:43,True
+CUST000691,Cliente 000691,cliente000691@example.com,+523534186676,Cancún,QROO,bronze,2026-03-26 15:29:34,True
+CUST000692,Cliente 000692,cliente000692@example.com,+524329446784,León,GTO,gold,2026-02-24 04:18:38,False
+CUST000693,Cliente 000693,cliente000693@example.com,+522249831874,Monterrey,NL,platinum,2026-04-03 22:57:16,True
+CUST000694,Cliente 000694,cliente000694@example.com,+523156792018,Querétaro,QRO,silver,2025-10-10 14:56:44,True
+CUST000695,Cliente 000695,cliente000695@example.com,+522916502228,León,GTO,silver,2025-04-20 00:41:57,True
+CUST000696,Cliente 000696,cliente000696@example.com,+521173601852,Tijuana,BC,platinum,2025-10-06 16:26:01,True
+CUST000697,Cliente 000697,cliente000697@example.com,+522586712032,Ciudad de México,CDMX,bronze,2025-07-25 07:58:25,True
+CUST000698,Cliente 000698,cliente000698@example.com,+526961814514,León,GTO,platinum,2025-10-08 14:12:48,True
+CUST000699,Cliente 000699,cliente000699@example.com,+528481445242,Oaxaca,OAX,silver,2025-09-09 17:07:24,False
+CUST000700,Cliente 000700,cliente000700@example.com,+529924243978,Querétaro,QRO,gold,2025-10-11 17:37:31,False
+CUST000701,Cliente 000701,cliente000701@example.com,+527038046278,Monterrey,NL,gold,2026-02-06 01:52:03,False
+CUST000702,Cliente 000702,cliente000702@example.com,+529618271425,Tijuana,BC,silver,2026-04-15 07:18:32,False
+CUST000703,Cliente 000703,cliente000703@example.com,+529921025990,Guadalajara,JAL,gold,2025-06-28 15:20:19,True
+CUST000704,Cliente 000704,cliente000704@example.com,+525970811968,Guadalajara,JAL,bronze,2025-05-26 04:10:27,True
+CUST000705,Cliente 000705,cliente000705@example.com,+524093474499,Querétaro,QRO,platinum,2025-09-14 11:50:08,False
+CUST000706,Cliente 000706,cliente000706@example.com,+523537427612,Tijuana,BC,platinum,2025-06-13 15:48:22,True
+CUST000707,Cliente 000707,cliente000707@example.com,+523544113848,Monterrey,NL,silver,2025-02-03 12:16:07,True
+CUST000708,Cliente 000708,cliente000708@example.com,+521240140248,Cancún,QROO,gold,2025-04-25 01:45:50,True
+CUST000709,Cliente 000709,cliente000709@example.com,+521368287033,León,GTO,platinum,2025-11-11 22:15:12,False
+CUST000710,Cliente 000710,cliente000710@example.com,+524296344958,Tijuana,BC,gold,2025-05-13 11:35:43,True
+CUST000711,Cliente 000711,cliente000711@example.com,+521295678014,Mérida,YUC,platinum,2025-12-19 05:17:46,False
+CUST000712,Cliente 000712,cliente000712@example.com,+521071135963,Guadalajara,JAL,platinum,2025-03-26 07:53:37,True
+CUST000713,Cliente 000713,cliente000713@example.com,+526056989774,Cancún,QROO,bronze,2025-03-16 19:08:08,True
+CUST000714,Cliente 000714,cliente000714@example.com,+523832069709,Ciudad de México,CDMX,bronze,2026-01-10 13:37:21,False
+CUST000715,Cliente 000715,cliente000715@example.com,+529776500600,León,GTO,platinum,2025-11-23 18:07:06,True
+CUST000716,Cliente 000716,cliente000716@example.com,+523474420092,Tijuana,BC,platinum,2025-10-24 02:45:48,True
+CUST000717,Cliente 000717,cliente000717@example.com,+524289338885,Puebla,PUE,bronze,2026-01-06 14:33:26,True
+CUST000718,Cliente 000718,cliente000718@example.com,+527050091525,Cancún,QROO,silver,2026-02-27 07:52:51,True
+CUST000719,Cliente 000719,cliente000719@example.com,+523244294928,Oaxaca,OAX,bronze,2026-03-25 22:27:40,False
+CUST000720,Cliente 000720,cliente000720@example.com,+527050943542,Monterrey,NL,bronze,2025-09-03 08:50:05,True
+CUST000721,Cliente 000721,cliente000721@example.com,+526384311581,Querétaro,QRO,platinum,2026-03-31 16:05:28,True
+CUST000722,Cliente 000722,cliente000722@example.com,+526169824924,Cancún,QROO,platinum,2025-08-03 00:49:14,True
+CUST000723,Cliente 000723,cliente000723@example.com,+527678293431,Mérida,YUC,gold,2026-03-11 06:15:51,True
+CUST000724,Cliente 000724,cliente000724@example.com,+526281827528,Cancún,QROO,silver,2025-09-25 11:16:00,True
+CUST000725,Cliente 000725,cliente000725@example.com,+524035639663,Monterrey,NL,silver,2026-01-30 20:12:37,False
+CUST000726,Cliente 000726,cliente000726@example.com,+524535855298,Oaxaca,OAX,platinum,2025-03-12 18:00:51,False
+CUST000727,Cliente 000727,cliente000727@example.com,+522129971523,Ciudad de México,CDMX,gold,2025-02-19 18:32:46,True
+CUST000728,Cliente 000728,cliente000728@example.com,+528406648395,Cancún,QROO,platinum,2025-01-30 07:48:37,True
+CUST000729,Cliente 000729,cliente000729@example.com,+524522855590,Cancún,QROO,platinum,2025-02-14 15:11:18,False
+CUST000730,Cliente 000730,cliente000730@example.com,+527520418699,Oaxaca,OAX,silver,2025-06-06 16:05:43,True
+CUST000731,Cliente 000731,cliente000731@example.com,+525449848690,Cancún,QROO,silver,2026-02-01 13:18:06,True
+CUST000732,Cliente 000732,cliente000732@example.com,+529576264323,Guadalajara,JAL,platinum,2025-03-09 10:52:02,True
+CUST000733,Cliente 000733,cliente000733@example.com,+523517195150,Querétaro,QRO,bronze,2025-11-11 22:09:13,True
+CUST000734,Cliente 000734,cliente000734@example.com,+526790024996,Ciudad de México,CDMX,gold,2026-03-03 21:08:58,True
+CUST000735,Cliente 000735,cliente000735@example.com,+525314945131,Cancún,QROO,silver,2025-06-01 02:12:44,False
+CUST000736,Cliente 000736,cliente000736@example.com,+523399300652,León,GTO,gold,2025-03-24 16:39:02,True
+CUST000737,Cliente 000737,cliente000737@example.com,+529404002665,Ciudad de México,CDMX,gold,2026-02-03 16:21:26,False
+CUST000738,Cliente 000738,cliente000738@example.com,+528626138802,Querétaro,QRO,platinum,2026-03-14 10:13:25,True
+CUST000739,Cliente 000739,cliente000739@example.com,+522107327477,Tijuana,BC,platinum,2025-04-01 07:23:53,True
+CUST000740,Cliente 000740,cliente000740@example.com,+523300607428,Monterrey,NL,gold,2025-09-03 05:38:48,True
+CUST000741,Cliente 000741,cliente000741@example.com,+522468848245,Puebla,PUE,silver,2025-03-14 05:49:17,False
+CUST000742,Cliente 000742,cliente000742@example.com,+527759044245,Mérida,YUC,silver,2025-10-02 14:25:28,True
+CUST000743,Cliente 000743,cliente000743@example.com,+522139907416,Tijuana,BC,silver,2025-06-05 02:03:14,True
+CUST000744,Cliente 000744,cliente000744@example.com,+521458227039,Monterrey,NL,bronze,2025-10-04 12:49:52,False
+CUST000745,Cliente 000745,cliente000745@example.com,+527366396017,Cancún,QROO,gold,2025-01-06 03:28:27,False
+CUST000746,Cliente 000746,cliente000746@example.com,+523107992942,Cancún,QROO,gold,2025-08-02 09:23:41,False
+CUST000747,Cliente 000747,cliente000747@example.com,+521550812184,Monterrey,NL,platinum,2026-03-24 21:49:05,False
+CUST000748,Cliente 000748,cliente000748@example.com,+527453081889,León,GTO,platinum,2025-01-26 07:00:42,True
+CUST000749,Cliente 000749,cliente000749@example.com,+527270955446,Tijuana,BC,bronze,2025-04-04 11:49:31,True
+CUST000750,Cliente 000750,cliente000750@example.com,+523495411322,Monterrey,NL,gold,2025-10-22 17:03:02,True
+CUST000751,Cliente 000751,cliente000751@example.com,+522128928014,Cancún,QROO,gold,2025-07-21 17:10:23,False
+CUST000752,Cliente 000752,cliente000752@example.com,+522571632270,Cancún,QROO,platinum,2025-09-24 11:46:53,False
+CUST000753,Cliente 000753,cliente000753@example.com,+526894024976,Monterrey,NL,platinum,2025-11-22 12:27:31,True
+CUST000754,Cliente 000754,cliente000754@example.com,+523454186065,Tijuana,BC,silver,2025-05-20 17:22:41,True
+CUST000755,Cliente 000755,cliente000755@example.com,+527680134655,Puebla,PUE,platinum,2025-07-03 03:43:37,True
+CUST000756,Cliente 000756,cliente000756@example.com,+521041842844,Guadalajara,JAL,platinum,2025-04-27 03:46:40,False
+CUST000757,Cliente 000757,cliente000757@example.com,+527384985150,Guadalajara,JAL,gold,2026-02-06 13:42:30,True
+CUST000758,Cliente 000758,cliente000758@example.com,+523965860354,Querétaro,QRO,bronze,2025-03-18 21:01:26,True
+CUST000759,Cliente 000759,cliente000759@example.com,+525708580756,Puebla,PUE,gold,2026-01-06 03:20:19,True
+CUST000760,Cliente 000760,cliente000760@example.com,+526401844042,Mérida,YUC,bronze,2025-10-07 20:36:05,False
+CUST000761,Cliente 000761,cliente000761@example.com,+528646369354,Ciudad de México,CDMX,gold,2025-09-30 16:48:03,True
+CUST000762,Cliente 000762,cliente000762@example.com,+525631725051,León,GTO,gold,2026-01-14 15:32:31,False
+CUST000763,Cliente 000763,cliente000763@example.com,+529283130753,Guadalajara,JAL,platinum,2025-05-11 03:50:03,False
+CUST000764,Cliente 000764,cliente000764@example.com,+525990749811,Ciudad de México,CDMX,silver,2025-03-03 10:45:11,True
+CUST000765,Cliente 000765,cliente000765@example.com,+528346255879,Mérida,YUC,platinum,2025-08-15 07:16:33,True
+CUST000766,Cliente 000766,cliente000766@example.com,+527228942343,Tijuana,BC,silver,2025-10-10 01:52:59,True
+CUST000767,Cliente 000767,cliente000767@example.com,+524125758723,Oaxaca,OAX,gold,2025-04-08 02:54:46,True
+CUST000768,Cliente 000768,cliente000768@example.com,+522705297819,Monterrey,NL,bronze,2025-05-10 15:26:11,True
+CUST000769,Cliente 000769,cliente000769@example.com,+521231178500,Tijuana,BC,platinum,2026-03-02 23:32:45,True
+CUST000770,Cliente 000770,cliente000770@example.com,+523654728627,Ciudad de México,CDMX,bronze,2025-07-23 20:27:53,False
+CUST000771,Cliente 000771,cliente000771@example.com,+526515490818,Puebla,PUE,silver,2025-06-28 03:30:17,True
+CUST000772,Cliente 000772,cliente000772@example.com,+521122712790,León,GTO,gold,2025-05-13 12:21:48,True
+CUST000773,Cliente 000773,cliente000773@example.com,+522910594463,Tijuana,BC,silver,2025-12-29 21:07:03,False
+CUST000774,Cliente 000774,cliente000774@example.com,+526786043791,Cancún,QROO,silver,2025-12-04 20:33:57,True
+CUST000775,Cliente 000775,cliente000775@example.com,+526865994703,Tijuana,BC,gold,2025-08-28 03:04:44,True
+CUST000776,Cliente 000776,cliente000776@example.com,+529590331226,Puebla,PUE,silver,2025-01-09 04:46:29,True
+CUST000777,Cliente 000777,cliente000777@example.com,+523298232225,Puebla,PUE,platinum,2025-12-31 10:29:01,False
+CUST000778,Cliente 000778,cliente000778@example.com,+528584350472,Puebla,PUE,gold,2025-01-08 02:14:38,True
+CUST000779,Cliente 000779,cliente000779@example.com,+522604788242,Oaxaca,OAX,platinum,2026-03-02 19:24:57,False
+CUST000780,Cliente 000780,cliente000780@example.com,+522625035499,Querétaro,QRO,gold,2025-07-14 02:24:04,True
+CUST000781,Cliente 000781,cliente000781@example.com,+526462619080,Querétaro,QRO,gold,2025-07-06 01:45:21,False
+CUST000782,Cliente 000782,cliente000782@example.com,+521783432867,Monterrey,NL,gold,2025-02-23 04:15:38,True
+CUST000783,Cliente 000783,cliente000783@example.com,+527969674420,Tijuana,BC,silver,2025-12-18 16:11:34,True
+CUST000784,Cliente 000784,cliente000784@example.com,+523297681898,Oaxaca,OAX,silver,2025-04-29 04:16:07,True
+CUST000785,Cliente 000785,cliente000785@example.com,+521035236295,Puebla,PUE,bronze,2025-07-29 02:09:39,True
+CUST000786,Cliente 000786,cliente000786@example.com,+526227783030,Oaxaca,OAX,platinum,2026-01-19 08:59:23,True
+CUST000787,Cliente 000787,cliente000787@example.com,+524399143287,Tijuana,BC,gold,2025-10-16 11:20:36,True
+CUST000788,Cliente 000788,cliente000788@example.com,+522685438702,Guadalajara,JAL,platinum,2025-02-13 12:37:49,True
+CUST000789,Cliente 000789,cliente000789@example.com,+528805032417,Monterrey,NL,bronze,2025-07-14 05:49:08,True
+CUST000790,Cliente 000790,cliente000790@example.com,+522902502763,Monterrey,NL,bronze,2025-10-26 21:09:09,True
+CUST000791,Cliente 000791,cliente000791@example.com,+525218155484,Tijuana,BC,platinum,2025-03-14 23:32:49,False
+CUST000792,Cliente 000792,cliente000792@example.com,+524127754456,Puebla,PUE,bronze,2025-09-08 22:20:03,True
+CUST000793,Cliente 000793,cliente000793@example.com,+526148478789,Tijuana,BC,bronze,2025-08-21 02:16:46,True
+CUST000794,Cliente 000794,cliente000794@example.com,+528013290620,Ciudad de México,CDMX,gold,2025-07-03 06:43:19,True
+CUST000795,Cliente 000795,cliente000795@example.com,+523511253899,Guadalajara,JAL,platinum,2025-08-03 10:52:40,True
+CUST000796,Cliente 000796,cliente000796@example.com,+528261722027,Oaxaca,OAX,silver,2025-02-02 14:48:47,True
+CUST000797,Cliente 000797,cliente000797@example.com,+525972277002,Ciudad de México,CDMX,bronze,2025-07-13 04:31:08,True
+CUST000798,Cliente 000798,cliente000798@example.com,+521461243650,Oaxaca,OAX,platinum,2025-02-16 10:17:21,True
+CUST000799,Cliente 000799,cliente000799@example.com,+528544958420,Mérida,YUC,platinum,2026-03-10 16:24:23,True
+CUST000800,Cliente 000800,cliente000800@example.com,+525873637580,Oaxaca,OAX,bronze,2025-10-21 10:07:24,False
+CUST000801,Cliente 000801,cliente000801@example.com,+528288721755,Tijuana,BC,silver,2026-03-11 04:58:38,True
+CUST000802,Cliente 000802,cliente000802@example.com,+527306707298,León,GTO,silver,2025-09-28 00:56:21,True
+CUST000803,Cliente 000803,cliente000803@example.com,+527225057758,León,GTO,gold,2025-05-01 09:53:03,True
+CUST000804,Cliente 000804,cliente000804@example.com,+527468039211,Tijuana,BC,silver,2025-01-01 13:25:06,True
+CUST000805,Cliente 000805,cliente000805@example.com,+526320547759,Cancún,QROO,bronze,2025-10-10 18:51:12,False
+CUST000806,Cliente 000806,cliente000806@example.com,+528229392805,Monterrey,NL,silver,2026-02-12 01:22:06,True
+CUST000807,Cliente 000807,cliente000807@example.com,+528047628706,Mérida,YUC,bronze,2025-11-15 07:18:36,True
+CUST000808,Cliente 000808,cliente000808@example.com,+525027818352,León,GTO,silver,2025-02-21 19:00:08,True
+CUST000809,Cliente 000809,cliente000809@example.com,+523084649514,Monterrey,NL,bronze,2025-03-25 03:39:10,True
+CUST000810,Cliente 000810,cliente000810@example.com,+528120717574,Cancún,QROO,gold,2025-10-29 20:00:25,True
+CUST000811,Cliente 000811,cliente000811@example.com,+521304401362,Mérida,YUC,silver,2025-06-21 10:34:15,False
+CUST000812,Cliente 000812,cliente000812@example.com,+525555672620,Ciudad de México,CDMX,platinum,2025-12-30 13:15:17,True
+CUST000813,Cliente 000813,cliente000813@example.com,+523272127173,Oaxaca,OAX,bronze,2025-07-26 11:09:45,True
+CUST000814,Cliente 000814,cliente000814@example.com,+521417124022,Ciudad de México,CDMX,silver,2025-06-17 16:40:07,False
+CUST000815,Cliente 000815,cliente000815@example.com,+528152161448,Monterrey,NL,bronze,2025-05-31 00:00:26,True
+CUST000816,Cliente 000816,cliente000816@example.com,+526891490448,Guadalajara,JAL,platinum,2026-03-04 04:05:57,True
+CUST000817,Cliente 000817,cliente000817@example.com,+526213781637,Cancún,QROO,gold,2025-07-06 23:23:37,True
+CUST000818,Cliente 000818,cliente000818@example.com,+529417381849,Tijuana,BC,bronze,2025-12-14 14:00:02,True
+CUST000819,Cliente 000819,cliente000819@example.com,+529659953069,Puebla,PUE,silver,2026-04-08 17:49:26,True
+CUST000820,Cliente 000820,cliente000820@example.com,+525227941857,Oaxaca,OAX,silver,2025-08-22 06:37:50,True
+CUST000821,Cliente 000821,cliente000821@example.com,+523455054143,Oaxaca,OAX,bronze,2025-08-03 08:12:49,True
+CUST000822,Cliente 000822,cliente000822@example.com,+521670474924,Tijuana,BC,gold,2025-10-04 05:54:13,True
+CUST000823,Cliente 000823,cliente000823@example.com,+526295669542,Cancún,QROO,gold,2025-07-14 01:40:13,True
+CUST000824,Cliente 000824,cliente000824@example.com,+529921512797,Cancún,QROO,gold,2025-11-07 12:46:46,False
+CUST000825,Cliente 000825,cliente000825@example.com,+524898351305,Guadalajara,JAL,gold,2026-01-15 06:07:54,True
+CUST000826,Cliente 000826,cliente000826@example.com,+528605964047,Cancún,QROO,gold,2025-10-24 08:32:06,False
+CUST000827,Cliente 000827,cliente000827@example.com,+529639044885,Querétaro,QRO,platinum,2025-04-04 15:02:17,True
+CUST000828,Cliente 000828,cliente000828@example.com,+525471843732,Puebla,PUE,silver,2026-02-12 07:12:51,True
+CUST000829,Cliente 000829,cliente000829@example.com,+521657978181,León,GTO,platinum,2025-06-21 11:57:27,False
+CUST000830,Cliente 000830,cliente000830@example.com,+523167796058,Cancún,QROO,silver,2026-03-23 19:31:39,False
+CUST000831,Cliente 000831,cliente000831@example.com,+521635708419,Puebla,PUE,gold,2025-11-03 06:42:08,True
+CUST000832,Cliente 000832,cliente000832@example.com,+524201103712,Tijuana,BC,platinum,2026-03-20 20:25:28,True
+CUST000833,Cliente 000833,cliente000833@example.com,+527450281157,Ciudad de México,CDMX,silver,2025-11-06 13:04:56,True
+CUST000834,Cliente 000834,cliente000834@example.com,+526145836928,Tijuana,BC,platinum,2026-03-11 10:02:11,True
+CUST000835,Cliente 000835,cliente000835@example.com,+522057617830,León,GTO,bronze,2026-02-12 04:41:13,True
+CUST000836,Cliente 000836,cliente000836@example.com,+523473979489,Querétaro,QRO,bronze,2025-09-09 04:49:47,False
+CUST000837,Cliente 000837,cliente000837@example.com,+522495970877,Querétaro,QRO,gold,2025-10-11 17:04:56,True
+CUST000838,Cliente 000838,cliente000838@example.com,+528600723288,Cancún,QROO,silver,2025-01-19 19:14:52,True
+CUST000839,Cliente 000839,cliente000839@example.com,+523676546979,Cancún,QROO,platinum,2025-12-10 11:23:37,True
+CUST000840,Cliente 000840,cliente000840@example.com,+528238562767,Monterrey,NL,silver,2025-06-05 02:24:07,True
+CUST000841,Cliente 000841,cliente000841@example.com,+522235598059,Ciudad de México,CDMX,gold,2025-02-12 08:39:44,True
+CUST000842,Cliente 000842,cliente000842@example.com,+523023746966,Puebla,PUE,gold,2025-12-16 13:45:20,True
+CUST000843,Cliente 000843,cliente000843@example.com,+525373945362,León,GTO,bronze,2025-06-14 13:38:31,True
+CUST000844,Cliente 000844,cliente000844@example.com,+522219828872,Guadalajara,JAL,gold,2025-02-16 16:31:57,True
+CUST000845,Cliente 000845,cliente000845@example.com,+525581002642,Tijuana,BC,gold,2025-01-07 11:21:37,True
+CUST000846,Cliente 000846,cliente000846@example.com,+522660104622,Ciudad de México,CDMX,platinum,2025-01-15 19:38:44,True
+CUST000847,Cliente 000847,cliente000847@example.com,+523283035614,Mérida,YUC,silver,2026-01-12 10:45:26,True
+CUST000848,Cliente 000848,cliente000848@example.com,+524060031897,León,GTO,bronze,2025-12-22 17:28:57,True
+CUST000849,Cliente 000849,cliente000849@example.com,+526727637971,León,GTO,platinum,2025-08-25 20:15:39,True
+CUST000850,Cliente 000850,cliente000850@example.com,+528234062195,Oaxaca,OAX,gold,2025-09-27 08:26:45,True
+CUST000851,Cliente 000851,cliente000851@example.com,+529856264217,Monterrey,NL,gold,2026-01-25 08:00:16,False
+CUST000852,Cliente 000852,cliente000852@example.com,+529371391276,Oaxaca,OAX,silver,2026-03-08 00:49:09,True
+CUST000853,Cliente 000853,cliente000853@example.com,+523821500440,Mérida,YUC,bronze,2025-11-02 03:11:28,False
+CUST000854,Cliente 000854,cliente000854@example.com,+522792433036,León,GTO,silver,2025-06-26 15:33:53,False
+CUST000855,Cliente 000855,cliente000855@example.com,+526709234482,Puebla,PUE,silver,2026-04-16 04:53:38,True
+CUST000856,Cliente 000856,cliente000856@example.com,+524436425084,Guadalajara,JAL,silver,2026-03-28 07:11:50,True
+CUST000857,Cliente 000857,cliente000857@example.com,+524307339566,León,GTO,silver,2025-04-16 01:17:21,True
+CUST000858,Cliente 000858,cliente000858@example.com,+524089973470,Ciudad de México,CDMX,silver,2026-03-09 21:34:34,True
+CUST000859,Cliente 000859,cliente000859@example.com,+528582485644,Guadalajara,JAL,platinum,2025-01-23 21:36:33,False
+CUST000860,Cliente 000860,cliente000860@example.com,+528466111803,Puebla,PUE,silver,2025-12-11 02:12:07,True
+CUST000861,Cliente 000861,cliente000861@example.com,+521793480168,Ciudad de México,CDMX,gold,2025-04-13 04:11:34,True
+CUST000862,Cliente 000862,cliente000862@example.com,+525406999328,Cancún,QROO,bronze,2025-06-30 08:11:46,False
+CUST000863,Cliente 000863,cliente000863@example.com,+528084842984,Guadalajara,JAL,silver,2026-01-26 04:00:32,False
+CUST000864,Cliente 000864,cliente000864@example.com,+521590612666,Tijuana,BC,silver,2026-01-04 01:08:48,True
+CUST000865,Cliente 000865,cliente000865@example.com,+522774010584,Oaxaca,OAX,silver,2025-11-14 08:39:14,True
+CUST000866,Cliente 000866,cliente000866@example.com,+529528205772,Ciudad de México,CDMX,platinum,2025-05-18 12:58:36,True
+CUST000867,Cliente 000867,cliente000867@example.com,+527131304971,Tijuana,BC,bronze,2025-07-11 16:23:03,False
+CUST000868,Cliente 000868,cliente000868@example.com,+524379795093,Mérida,YUC,bronze,2025-11-03 03:30:06,False
+CUST000869,Cliente 000869,cliente000869@example.com,+527605097681,Tijuana,BC,bronze,2025-02-02 22:41:23,False
+CUST000870,Cliente 000870,cliente000870@example.com,+526110368314,León,GTO,platinum,2025-02-08 06:56:01,False
+CUST000871,Cliente 000871,cliente000871@example.com,+522981470996,Puebla,PUE,platinum,2025-08-11 01:50:03,True
+CUST000872,Cliente 000872,cliente000872@example.com,+524881257367,Cancún,QROO,platinum,2025-02-12 08:49:24,False
+CUST000873,Cliente 000873,cliente000873@example.com,+521486068287,Ciudad de México,CDMX,silver,2026-01-24 20:56:15,False
+CUST000874,Cliente 000874,cliente000874@example.com,+522936540028,Querétaro,QRO,silver,2025-09-09 05:44:55,False
+CUST000875,Cliente 000875,cliente000875@example.com,+529085484017,Cancún,QROO,bronze,2025-06-06 20:17:07,True
+CUST000876,Cliente 000876,cliente000876@example.com,+521530618370,Mérida,YUC,bronze,2025-05-08 09:04:12,False
+CUST000877,Cliente 000877,cliente000877@example.com,+525079161918,Mérida,YUC,platinum,2025-03-08 06:13:45,False
+CUST000878,Cliente 000878,cliente000878@example.com,+529213063154,Oaxaca,OAX,silver,2025-05-13 17:31:36,True
+CUST000879,Cliente 000879,cliente000879@example.com,+525515344181,Guadalajara,JAL,gold,2025-05-19 22:19:05,True
+CUST000880,Cliente 000880,cliente000880@example.com,+523690594504,Tijuana,BC,bronze,2025-08-13 07:15:33,True
+CUST000881,Cliente 000881,cliente000881@example.com,+522087103368,Monterrey,NL,platinum,2025-01-03 17:51:28,False
+CUST000882,Cliente 000882,cliente000882@example.com,+524467990956,Tijuana,BC,platinum,2026-02-27 03:35:45,True
+CUST000883,Cliente 000883,cliente000883@example.com,+528127372046,Monterrey,NL,platinum,2026-04-03 09:11:21,False
+CUST000884,Cliente 000884,cliente000884@example.com,+521028230917,Tijuana,BC,gold,2025-03-03 16:12:53,True
+CUST000885,Cliente 000885,cliente000885@example.com,+521636755414,Oaxaca,OAX,gold,2025-05-24 13:40:01,True
+CUST000886,Cliente 000886,cliente000886@example.com,+526576763981,Guadalajara,JAL,bronze,2025-01-26 04:34:40,True
+CUST000887,Cliente 000887,cliente000887@example.com,+525268060108,Ciudad de México,CDMX,silver,2025-11-20 20:38:25,True
+CUST000888,Cliente 000888,cliente000888@example.com,+523414532686,Cancún,QROO,platinum,2026-04-08 03:01:32,True
+CUST000889,Cliente 000889,cliente000889@example.com,+528595701134,Oaxaca,OAX,gold,2025-03-14 07:59:59,True
+CUST000890,Cliente 000890,cliente000890@example.com,+528552450838,Querétaro,QRO,bronze,2025-02-22 13:23:53,True
+CUST000891,Cliente 000891,cliente000891@example.com,+528986096303,Tijuana,BC,gold,2025-04-15 12:06:55,False
+CUST000892,Cliente 000892,cliente000892@example.com,+523988564933,León,GTO,bronze,2025-06-12 23:48:04,True
+CUST000893,Cliente 000893,cliente000893@example.com,+525239945630,Cancún,QROO,platinum,2026-02-15 20:16:46,True
+CUST000894,Cliente 000894,cliente000894@example.com,+528936231850,Querétaro,QRO,gold,2026-04-18 21:41:09,True
+CUST000895,Cliente 000895,cliente000895@example.com,+527432749100,Guadalajara,JAL,silver,2026-03-14 00:15:51,True
+CUST000896,Cliente 000896,cliente000896@example.com,+521006789986,Puebla,PUE,bronze,2025-05-31 08:08:05,False
+CUST000897,Cliente 000897,cliente000897@example.com,+529585583837,Ciudad de México,CDMX,platinum,2025-06-11 00:55:36,True
+CUST000898,Cliente 000898,cliente000898@example.com,+523738056872,Mérida,YUC,bronze,2025-09-29 13:56:57,True
+CUST000899,Cliente 000899,cliente000899@example.com,+524393863868,Puebla,PUE,gold,2025-07-17 14:41:10,True
+CUST000900,Cliente 000900,cliente000900@example.com,+521026333597,León,GTO,gold,2026-03-04 04:37:25,True
+CUST000901,Cliente 000901,cliente000901@example.com,+521754321211,Querétaro,QRO,gold,2026-03-18 21:27:58,True
+CUST000902,Cliente 000902,cliente000902@example.com,+524424181518,Tijuana,BC,silver,2026-01-04 13:19:46,False
+CUST000903,Cliente 000903,cliente000903@example.com,+526734252303,Guadalajara,JAL,platinum,2025-12-24 18:32:26,True
+CUST000904,Cliente 000904,cliente000904@example.com,+528207803934,León,GTO,bronze,2025-08-21 12:10:18,True
+CUST000905,Cliente 000905,cliente000905@example.com,+522518681304,Cancún,QROO,silver,2025-09-15 15:41:44,True
+CUST000906,Cliente 000906,cliente000906@example.com,+529519577735,Oaxaca,OAX,silver,2025-09-21 10:15:33,False
+CUST000907,Cliente 000907,cliente000907@example.com,+528979273911,Guadalajara,JAL,bronze,2026-04-08 07:10:50,True
+CUST000908,Cliente 000908,cliente000908@example.com,+526315632990,Querétaro,QRO,platinum,2025-03-09 10:01:40,True
+CUST000909,Cliente 000909,cliente000909@example.com,+522298447203,Monterrey,NL,bronze,2026-02-12 20:34:52,True
+CUST000910,Cliente 000910,cliente000910@example.com,+524922824898,Oaxaca,OAX,platinum,2025-06-06 23:23:14,True
+CUST000911,Cliente 000911,cliente000911@example.com,+521661759010,Tijuana,BC,gold,2026-01-24 09:41:16,False
+CUST000912,Cliente 000912,cliente000912@example.com,+528625857078,León,GTO,silver,2025-08-30 01:30:20,True
+CUST000913,Cliente 000913,cliente000913@example.com,+525451959254,León,GTO,platinum,2025-04-14 02:01:37,True
+CUST000914,Cliente 000914,cliente000914@example.com,+525004358412,Oaxaca,OAX,bronze,2025-08-30 13:06:42,True
+CUST000915,Cliente 000915,cliente000915@example.com,+528497100471,Tijuana,BC,bronze,2025-02-05 20:06:27,True
+CUST000916,Cliente 000916,cliente000916@example.com,+521861379367,Monterrey,NL,gold,2025-09-07 05:38:37,True
+CUST000917,Cliente 000917,cliente000917@example.com,+528614062614,León,GTO,bronze,2025-09-05 21:22:59,True
+CUST000918,Cliente 000918,cliente000918@example.com,+522175261501,Guadalajara,JAL,bronze,2025-05-03 07:56:18,True
+CUST000919,Cliente 000919,cliente000919@example.com,+526662849574,Monterrey,NL,silver,2026-02-26 09:28:05,True
+CUST000920,Cliente 000920,cliente000920@example.com,+521735620429,Cancún,QROO,gold,2025-07-10 03:52:12,True
+CUST000921,Cliente 000921,cliente000921@example.com,+521217867296,León,GTO,bronze,2025-12-11 14:11:29,False
+CUST000922,Cliente 000922,cliente000922@example.com,+522647547914,Oaxaca,OAX,bronze,2025-03-24 06:37:15,False
+CUST000923,Cliente 000923,cliente000923@example.com,+526822362090,Querétaro,QRO,gold,2025-05-20 00:29:05,True
+CUST000924,Cliente 000924,cliente000924@example.com,+521566056427,León,GTO,platinum,2025-03-03 00:11:46,True
+CUST000925,Cliente 000925,cliente000925@example.com,+527293830307,Tijuana,BC,silver,2025-08-30 02:07:13,True
+CUST000926,Cliente 000926,cliente000926@example.com,+529215678070,Guadalajara,JAL,platinum,2025-07-20 10:27:07,True
+CUST000927,Cliente 000927,cliente000927@example.com,+527241803245,Mérida,YUC,bronze,2025-09-10 05:59:07,True
+CUST000928,Cliente 000928,cliente000928@example.com,+526804394126,Tijuana,BC,platinum,2025-03-29 16:22:02,True
+CUST000929,Cliente 000929,cliente000929@example.com,+525737057771,Puebla,PUE,bronze,2025-09-28 18:39:46,True
+CUST000930,Cliente 000930,cliente000930@example.com,+528698432271,León,GTO,platinum,2025-02-25 02:07:08,False
+CUST000931,Cliente 000931,cliente000931@example.com,+527366750668,Cancún,QROO,bronze,2025-11-18 03:06:56,True
+CUST000932,Cliente 000932,cliente000932@example.com,+529504916685,Monterrey,NL,gold,2026-04-05 00:28:58,True
+CUST000933,Cliente 000933,cliente000933@example.com,+528888773421,Guadalajara,JAL,bronze,2025-03-02 12:03:24,False
+CUST000934,Cliente 000934,cliente000934@example.com,+522912189154,Mérida,YUC,gold,2026-03-08 03:35:05,False
+CUST000935,Cliente 000935,cliente000935@example.com,+526922377726,Ciudad de México,CDMX,platinum,2026-04-10 16:21:34,True
+CUST000936,Cliente 000936,cliente000936@example.com,+524509132563,Ciudad de México,CDMX,bronze,2025-06-19 00:34:38,True
+CUST000937,Cliente 000937,cliente000937@example.com,+527576693686,Guadalajara,JAL,platinum,2025-12-18 20:03:18,False
+CUST000938,Cliente 000938,cliente000938@example.com,+526654744136,Monterrey,NL,gold,2025-06-09 17:48:41,False
+CUST000939,Cliente 000939,cliente000939@example.com,+523502793324,Mérida,YUC,platinum,2025-03-11 08:26:16,True
+CUST000940,Cliente 000940,cliente000940@example.com,+521228180081,Puebla,PUE,gold,2025-02-18 11:25:01,True
+CUST000941,Cliente 000941,cliente000941@example.com,+526305320432,Puebla,PUE,platinum,2025-01-25 05:19:32,True
+CUST000942,Cliente 000942,cliente000942@example.com,+526933776673,Querétaro,QRO,silver,2025-11-12 08:59:50,True
+CUST000943,Cliente 000943,cliente000943@example.com,+529265587451,Tijuana,BC,platinum,2025-04-19 00:25:53,True
+CUST000944,Cliente 000944,cliente000944@example.com,+521576717254,Puebla,PUE,bronze,2025-04-08 12:24:21,True
+CUST000945,Cliente 000945,cliente000945@example.com,+528120740945,Guadalajara,JAL,silver,2026-01-14 00:46:13,True
+CUST000946,Cliente 000946,cliente000946@example.com,+528989295264,Guadalajara,JAL,platinum,2025-11-20 00:06:27,True
+CUST000947,Cliente 000947,cliente000947@example.com,+528817147252,Tijuana,BC,platinum,2026-01-31 16:10:56,True
+CUST000948,Cliente 000948,cliente000948@example.com,+529621846170,Monterrey,NL,platinum,2025-05-25 07:23:45,True
+CUST000949,Cliente 000949,cliente000949@example.com,+522576124271,León,GTO,bronze,2025-07-29 03:11:31,False
+CUST000950,Cliente 000950,cliente000950@example.com,+527787202740,Mérida,YUC,bronze,2025-03-29 21:32:12,True
+CUST000951,Cliente 000951,cliente000951@example.com,+529925949659,León,GTO,bronze,2025-08-06 00:46:23,True
+CUST000952,Cliente 000952,cliente000952@example.com,+527784452486,Tijuana,BC,bronze,2025-03-02 15:33:08,True
+CUST000953,Cliente 000953,cliente000953@example.com,+527308743495,León,GTO,platinum,2025-01-09 09:01:01,True
+CUST000954,Cliente 000954,cliente000954@example.com,+528723309920,Querétaro,QRO,gold,2025-10-02 02:48:13,True
+CUST000955,Cliente 000955,cliente000955@example.com,+528513724361,Oaxaca,OAX,gold,2026-04-10 04:45:07,True
+CUST000956,Cliente 000956,cliente000956@example.com,+529811640292,Tijuana,BC,gold,2026-03-26 01:19:51,True
+CUST000957,Cliente 000957,cliente000957@example.com,+521354378489,Puebla,PUE,bronze,2026-01-12 12:35:05,True
+CUST000958,Cliente 000958,cliente000958@example.com,+527939798543,Puebla,PUE,gold,2025-04-13 22:42:05,True
+CUST000959,Cliente 000959,cliente000959@example.com,+523593393772,Oaxaca,OAX,silver,2025-03-28 15:25:53,False
+CUST000960,Cliente 000960,cliente000960@example.com,+524009805180,Mérida,YUC,platinum,2025-05-17 05:40:52,True
+CUST000961,Cliente 000961,cliente000961@example.com,+529562384841,León,GTO,platinum,2025-01-26 16:51:07,True
+CUST000962,Cliente 000962,cliente000962@example.com,+522482088956,Tijuana,BC,gold,2025-05-10 22:23:09,True
+CUST000963,Cliente 000963,cliente000963@example.com,+527287896242,Oaxaca,OAX,platinum,2025-05-11 04:17:52,True
+CUST000964,Cliente 000964,cliente000964@example.com,+526298534979,Tijuana,BC,platinum,2026-02-18 14:54:28,False
+CUST000965,Cliente 000965,cliente000965@example.com,+522867169740,Puebla,PUE,gold,2025-04-23 17:47:20,False
+CUST000966,Cliente 000966,cliente000966@example.com,+521176169319,Querétaro,QRO,gold,2025-09-03 04:51:44,False
+CUST000967,Cliente 000967,cliente000967@example.com,+526733641358,Cancún,QROO,gold,2025-07-31 17:27:25,True
+CUST000968,Cliente 000968,cliente000968@example.com,+526974959934,Puebla,PUE,silver,2026-03-30 17:50:43,True
+CUST000969,Cliente 000969,cliente000969@example.com,+525265825306,León,GTO,gold,2025-09-20 01:42:53,True
+CUST000970,Cliente 000970,cliente000970@example.com,+525346341182,Oaxaca,OAX,bronze,2025-02-22 18:42:58,True
+CUST000971,Cliente 000971,cliente000971@example.com,+526511718732,Tijuana,BC,silver,2025-10-01 00:44:27,True
+CUST000972,Cliente 000972,cliente000972@example.com,+525113699666,Oaxaca,OAX,bronze,2025-03-13 09:54:35,True
+CUST000973,Cliente 000973,cliente000973@example.com,+526086370835,Querétaro,QRO,gold,2026-03-16 16:17:14,False
+CUST000974,Cliente 000974,cliente000974@example.com,+526683977453,Ciudad de México,CDMX,silver,2025-12-19 04:48:15,True
+CUST000975,Cliente 000975,cliente000975@example.com,+526939076506,Puebla,PUE,gold,2025-02-18 10:59:06,True
+CUST000976,Cliente 000976,cliente000976@example.com,+526059168627,Puebla,PUE,bronze,2025-07-25 13:42:37,False
+CUST000977,Cliente 000977,cliente000977@example.com,+523113370001,Monterrey,NL,silver,2025-11-01 23:14:11,False
+CUST000978,Cliente 000978,cliente000978@example.com,+529214594061,Monterrey,NL,gold,2025-03-24 12:38:17,True
+CUST000979,Cliente 000979,cliente000979@example.com,+529892353238,Oaxaca,OAX,gold,2025-02-26 15:19:05,False
+CUST000980,Cliente 000980,cliente000980@example.com,+523750219066,Oaxaca,OAX,bronze,2026-01-22 13:49:34,False
+CUST000981,Cliente 000981,cliente000981@example.com,+528301681475,Puebla,PUE,platinum,2025-04-28 18:10:05,True
+CUST000982,Cliente 000982,cliente000982@example.com,+527348560496,León,GTO,platinum,2026-01-17 02:55:40,True
+CUST000983,Cliente 000983,cliente000983@example.com,+525309172294,León,GTO,platinum,2025-06-25 10:05:25,True
+CUST000984,Cliente 000984,cliente000984@example.com,+526836509775,Cancún,QROO,gold,2026-02-20 18:47:28,False
+CUST000985,Cliente 000985,cliente000985@example.com,+522460558581,Oaxaca,OAX,platinum,2025-03-12 10:09:17,True
+CUST000986,Cliente 000986,cliente000986@example.com,+523381454037,Monterrey,NL,platinum,2025-05-18 04:24:13,True
+CUST000987,Cliente 000987,cliente000987@example.com,+524850269395,Puebla,PUE,gold,2025-10-31 00:04:44,False
+CUST000988,Cliente 000988,cliente000988@example.com,+524158193327,Ciudad de México,CDMX,silver,2025-12-07 04:36:31,True
+CUST000989,Cliente 000989,cliente000989@example.com,+523546681221,Monterrey,NL,platinum,2025-01-20 16:49:49,False
+CUST000990,Cliente 000990,cliente000990@example.com,+528058382074,Ciudad de México,CDMX,platinum,2026-02-24 20:37:13,False
+CUST000991,Cliente 000991,cliente000991@example.com,+522457218442,Oaxaca,OAX,gold,2025-01-29 18:31:32,True
+CUST000992,Cliente 000992,cliente000992@example.com,+527541749055,Querétaro,QRO,silver,2025-04-02 19:10:02,True
+CUST000993,Cliente 000993,cliente000993@example.com,+524158775469,Ciudad de México,CDMX,platinum,2025-01-29 15:26:58,True
+CUST000994,Cliente 000994,cliente000994@example.com,+523786516452,Tijuana,BC,bronze,2025-02-05 13:48:19,True
+CUST000995,Cliente 000995,cliente000995@example.com,+525712834281,Oaxaca,OAX,silver,2025-08-27 17:10:59,True
+CUST000996,Cliente 000996,cliente000996@example.com,+521947351792,Ciudad de México,CDMX,silver,2025-03-30 16:27:48,False
+CUST000997,Cliente 000997,cliente000997@example.com,+522392578489,Mérida,YUC,silver,2025-11-09 05:59:01,True
+CUST000998,Cliente 000998,cliente000998@example.com,+523547281761,Monterrey,NL,gold,2025-02-05 09:47:41,True
+CUST000999,Cliente 000999,cliente000999@example.com,+522783074271,Ciudad de México,CDMX,gold,2025-08-01 17:44:32,True
+CUST001000,Cliente 001000,cliente001000@example.com,+521174800445,Tijuana,BC,bronze,2025-07-09 05:51:52,False
+CUST001001,Cliente 001001,cliente001001@example.com,+529072936225,Guadalajara,JAL,bronze,2025-01-13 03:22:13,True
+CUST001002,Cliente 001002,cliente001002@example.com,+524977727965,Oaxaca,OAX,gold,2025-05-20 08:29:52,False
+CUST001003,Cliente 001003,cliente001003@example.com,+521885451419,Tijuana,BC,gold,2025-04-09 13:26:46,False
+CUST001004,Cliente 001004,cliente001004@example.com,+525029064216,Querétaro,QRO,bronze,2025-07-05 20:00:47,True
+CUST001005,Cliente 001005,cliente001005@example.com,+528656135818,Tijuana,BC,gold,2025-03-10 08:50:02,False
+CUST001006,Cliente 001006,cliente001006@example.com,+522012061834,Oaxaca,OAX,bronze,2026-03-10 04:28:31,True
+CUST001007,Cliente 001007,cliente001007@example.com,+523179870948,Cancún,QROO,platinum,2025-10-09 02:19:45,True
+CUST001008,Cliente 001008,cliente001008@example.com,+521832016743,Puebla,PUE,silver,2025-02-11 05:16:41,False
+CUST001009,Cliente 001009,cliente001009@example.com,+524962850544,Tijuana,BC,bronze,2025-05-17 22:54:51,True
+CUST001010,Cliente 001010,cliente001010@example.com,+527161867807,Puebla,PUE,gold,2025-06-12 19:02:10,False
+CUST001011,Cliente 001011,cliente001011@example.com,+524180066307,Oaxaca,OAX,silver,2025-03-23 02:33:01,True
+CUST001012,Cliente 001012,cliente001012@example.com,+523211494631,Oaxaca,OAX,bronze,2026-01-12 18:11:59,True
+CUST001013,Cliente 001013,cliente001013@example.com,+527785025154,Tijuana,BC,platinum,2026-04-06 08:51:10,True
+CUST001014,Cliente 001014,cliente001014@example.com,+524345673352,Mérida,YUC,gold,2025-06-28 16:41:22,True
+CUST001015,Cliente 001015,cliente001015@example.com,+528463570248,Ciudad de México,CDMX,silver,2025-07-04 04:12:23,False
+CUST001016,Cliente 001016,cliente001016@example.com,+523080515301,Monterrey,NL,platinum,2025-02-27 02:41:35,True
+CUST001017,Cliente 001017,cliente001017@example.com,+522954170921,Monterrey,NL,platinum,2026-04-19 08:39:53,True
+CUST001018,Cliente 001018,cliente001018@example.com,+524091608595,Guadalajara,JAL,gold,2025-12-22 12:53:44,True
+CUST001019,Cliente 001019,cliente001019@example.com,+521546370398,Monterrey,NL,bronze,2025-09-18 21:28:06,True
+CUST001020,Cliente 001020,cliente001020@example.com,+528952782076,Guadalajara,JAL,platinum,2025-03-28 07:13:36,False
+CUST001021,Cliente 001021,cliente001021@example.com,+524889428336,Guadalajara,JAL,silver,2025-09-24 20:43:15,True
+CUST001022,Cliente 001022,cliente001022@example.com,+525276345770,Querétaro,QRO,platinum,2026-02-10 06:28:30,False
+CUST001023,Cliente 001023,cliente001023@example.com,+528430369688,Puebla,PUE,silver,2025-01-12 06:22:17,True
+CUST001024,Cliente 001024,cliente001024@example.com,+523488791944,Mérida,YUC,silver,2025-12-04 06:58:58,True
+CUST001025,Cliente 001025,cliente001025@example.com,+525439366473,Querétaro,QRO,platinum,2025-02-04 08:23:55,False
+CUST001026,Cliente 001026,cliente001026@example.com,+523127233070,Ciudad de México,CDMX,bronze,2025-12-18 10:07:06,True
+CUST001027,Cliente 001027,cliente001027@example.com,+525864961001,Querétaro,QRO,gold,2025-06-19 07:56:07,True
+CUST001028,Cliente 001028,cliente001028@example.com,+522309263254,Ciudad de México,CDMX,platinum,2025-01-13 08:57:35,True
+CUST001029,Cliente 001029,cliente001029@example.com,+524315006135,Tijuana,BC,platinum,2025-12-27 05:07:29,True
+CUST001030,Cliente 001030,cliente001030@example.com,+523694254580,Mérida,YUC,platinum,2025-12-27 15:06:02,True
+CUST001031,Cliente 001031,cliente001031@example.com,+526568811580,León,GTO,gold,2025-01-26 09:50:11,True
+CUST001032,Cliente 001032,cliente001032@example.com,+529825348931,Ciudad de México,CDMX,gold,2025-09-18 17:48:08,True
+CUST001033,Cliente 001033,cliente001033@example.com,+526865168092,Ciudad de México,CDMX,bronze,2025-10-25 10:47:54,True
+CUST001034,Cliente 001034,cliente001034@example.com,+524027409334,Mérida,YUC,silver,2025-05-17 03:13:16,True
+CUST001035,Cliente 001035,cliente001035@example.com,+523317709657,Mérida,YUC,platinum,2025-07-05 08:26:09,True
+CUST001036,Cliente 001036,cliente001036@example.com,+528216518899,Monterrey,NL,gold,2025-09-06 21:52:42,True
+CUST001037,Cliente 001037,cliente001037@example.com,+526777704180,Ciudad de México,CDMX,platinum,2025-10-17 13:45:09,True
+CUST001038,Cliente 001038,cliente001038@example.com,+526550233140,Tijuana,BC,gold,2026-02-18 03:25:05,True
+CUST001039,Cliente 001039,cliente001039@example.com,+521374988236,Monterrey,NL,platinum,2025-12-22 15:23:32,True
+CUST001040,Cliente 001040,cliente001040@example.com,+521469718772,Puebla,PUE,gold,2025-03-01 18:24:06,True
+CUST001041,Cliente 001041,cliente001041@example.com,+525392421278,Guadalajara,JAL,platinum,2026-01-21 12:14:17,True
+CUST001042,Cliente 001042,cliente001042@example.com,+527099411776,Tijuana,BC,bronze,2025-09-27 06:57:39,True
+CUST001043,Cliente 001043,cliente001043@example.com,+524444516981,Monterrey,NL,gold,2025-02-18 21:27:50,False
+CUST001044,Cliente 001044,cliente001044@example.com,+528674352222,Cancún,QROO,platinum,2025-09-24 06:06:53,False
+CUST001045,Cliente 001045,cliente001045@example.com,+523436327339,Tijuana,BC,gold,2025-08-25 04:30:20,True
+CUST001046,Cliente 001046,cliente001046@example.com,+527374775639,Puebla,PUE,gold,2025-06-26 03:31:18,True
+CUST001047,Cliente 001047,cliente001047@example.com,+526516378816,Guadalajara,JAL,silver,2025-10-02 06:39:02,True
+CUST001048,Cliente 001048,cliente001048@example.com,+524412168053,León,GTO,silver,2025-08-10 13:22:54,True
+CUST001049,Cliente 001049,cliente001049@example.com,+529563189993,Ciudad de México,CDMX,silver,2025-02-01 23:07:07,False
+CUST001050,Cliente 001050,cliente001050@example.com,+521792406808,Puebla,PUE,bronze,2025-10-15 03:11:17,True
+CUST001051,Cliente 001051,cliente001051@example.com,+526896624762,Mérida,YUC,silver,2025-04-25 21:52:48,True
+CUST001052,Cliente 001052,cliente001052@example.com,+522375325559,Ciudad de México,CDMX,bronze,2025-01-20 08:38:22,True
+CUST001053,Cliente 001053,cliente001053@example.com,+529143161161,Puebla,PUE,silver,2026-01-04 02:20:06,False
+CUST001054,Cliente 001054,cliente001054@example.com,+528437339412,Mérida,YUC,bronze,2025-03-29 05:42:53,True
+CUST001055,Cliente 001055,cliente001055@example.com,+522323202998,León,GTO,platinum,2025-04-01 18:43:42,True
+CUST001056,Cliente 001056,cliente001056@example.com,+525692170729,Tijuana,BC,bronze,2025-10-05 14:17:55,True
+CUST001057,Cliente 001057,cliente001057@example.com,+522193688100,Cancún,QROO,bronze,2026-02-13 21:26:17,True
+CUST001058,Cliente 001058,cliente001058@example.com,+525112962480,León,GTO,platinum,2025-12-12 23:56:25,True
+CUST001059,Cliente 001059,cliente001059@example.com,+528158707130,Tijuana,BC,platinum,2025-09-04 19:26:05,True
+CUST001060,Cliente 001060,cliente001060@example.com,+526953308368,Querétaro,QRO,bronze,2025-10-15 02:24:07,True
+CUST001061,Cliente 001061,cliente001061@example.com,+523409618453,Mérida,YUC,silver,2025-09-30 21:43:57,False
+CUST001062,Cliente 001062,cliente001062@example.com,+522239673672,Querétaro,QRO,platinum,2025-12-10 16:52:45,False
+CUST001063,Cliente 001063,cliente001063@example.com,+523568114320,Guadalajara,JAL,silver,2026-04-02 01:49:47,True
+CUST001064,Cliente 001064,cliente001064@example.com,+522440603960,Puebla,PUE,platinum,2026-01-04 15:25:47,True
+CUST001065,Cliente 001065,cliente001065@example.com,+526468905805,Oaxaca,OAX,silver,2025-11-15 00:53:58,False
+CUST001066,Cliente 001066,cliente001066@example.com,+521855804722,Cancún,QROO,platinum,2025-04-17 08:30:18,True
+CUST001067,Cliente 001067,cliente001067@example.com,+528843676736,León,GTO,gold,2026-01-17 01:10:43,False
+CUST001068,Cliente 001068,cliente001068@example.com,+521964307023,León,GTO,bronze,2025-12-26 23:22:06,True
+CUST001069,Cliente 001069,cliente001069@example.com,+523029548895,Puebla,PUE,gold,2025-08-22 03:33:47,False
+CUST001070,Cliente 001070,cliente001070@example.com,+523769334117,Guadalajara,JAL,bronze,2026-01-18 01:25:44,True
+CUST001071,Cliente 001071,cliente001071@example.com,+529876515546,Puebla,PUE,gold,2026-01-18 23:07:20,False
+CUST001072,Cliente 001072,cliente001072@example.com,+529024484626,Cancún,QROO,platinum,2025-12-05 16:54:22,True
+CUST001073,Cliente 001073,cliente001073@example.com,+522114703737,Mérida,YUC,bronze,2026-02-03 02:10:28,True
+CUST001074,Cliente 001074,cliente001074@example.com,+525876924163,Mérida,YUC,silver,2025-12-25 02:28:56,True
+CUST001075,Cliente 001075,cliente001075@example.com,+522528941040,Puebla,PUE,gold,2025-10-08 12:34:28,True
+CUST001076,Cliente 001076,cliente001076@example.com,+523207039799,León,GTO,silver,2025-03-01 16:09:11,True
+CUST001077,Cliente 001077,cliente001077@example.com,+527630193996,Cancún,QROO,gold,2025-05-10 19:38:21,True
+CUST001078,Cliente 001078,cliente001078@example.com,+527786248655,Puebla,PUE,silver,2025-10-09 13:54:45,True
+CUST001079,Cliente 001079,cliente001079@example.com,+526503647391,Guadalajara,JAL,platinum,2026-02-07 11:24:10,False
+CUST001080,Cliente 001080,cliente001080@example.com,+521439881358,Mérida,YUC,silver,2025-05-07 15:05:00,True
+CUST001081,Cliente 001081,cliente001081@example.com,+525784450697,Monterrey,NL,platinum,2026-03-10 22:05:16,True
+CUST001082,Cliente 001082,cliente001082@example.com,+524966014688,Ciudad de México,CDMX,platinum,2025-04-12 22:20:40,True
+CUST001083,Cliente 001083,cliente001083@example.com,+529461564269,Puebla,PUE,silver,2025-10-09 14:46:04,True
+CUST001084,Cliente 001084,cliente001084@example.com,+521955019690,Oaxaca,OAX,silver,2025-04-03 02:48:22,True
+CUST001085,Cliente 001085,cliente001085@example.com,+521901260260,Puebla,PUE,bronze,2025-04-08 08:35:05,False
+CUST001086,Cliente 001086,cliente001086@example.com,+522852193802,Ciudad de México,CDMX,silver,2025-03-02 09:05:27,True
+CUST001087,Cliente 001087,cliente001087@example.com,+523547672267,Oaxaca,OAX,platinum,2026-02-03 19:56:45,True
+CUST001088,Cliente 001088,cliente001088@example.com,+525579497553,Puebla,PUE,bronze,2025-02-03 14:49:32,True
+CUST001089,Cliente 001089,cliente001089@example.com,+524870516577,Ciudad de México,CDMX,silver,2026-04-13 10:12:55,True
+CUST001090,Cliente 001090,cliente001090@example.com,+527784980390,Oaxaca,OAX,gold,2025-03-12 12:14:56,True
+CUST001091,Cliente 001091,cliente001091@example.com,+521293505358,León,GTO,bronze,2025-07-07 19:53:54,True
+CUST001092,Cliente 001092,cliente001092@example.com,+524115351748,Monterrey,NL,silver,2025-08-07 22:11:29,False
+CUST001093,Cliente 001093,cliente001093@example.com,+526090076463,Mérida,YUC,bronze,2026-04-03 18:51:00,True
+CUST001094,Cliente 001094,cliente001094@example.com,+522821460610,Mérida,YUC,silver,2025-10-22 20:32:15,False
+CUST001095,Cliente 001095,cliente001095@example.com,+525825891409,Ciudad de México,CDMX,bronze,2025-09-02 02:36:32,True
+CUST001096,Cliente 001096,cliente001096@example.com,+528321763524,Tijuana,BC,bronze,2025-10-08 14:11:47,True
+CUST001097,Cliente 001097,cliente001097@example.com,+525791992101,Mérida,YUC,gold,2026-01-19 11:28:25,False
+CUST001098,Cliente 001098,cliente001098@example.com,+528907422108,Cancún,QROO,silver,2025-08-31 08:13:49,False
+CUST001099,Cliente 001099,cliente001099@example.com,+528211813187,Puebla,PUE,silver,2025-11-29 09:47:01,True
+CUST001100,Cliente 001100,cliente001100@example.com,+526997362444,Tijuana,BC,bronze,2025-03-23 16:32:45,True
+CUST001101,Cliente 001101,cliente001101@example.com,+525199848083,Guadalajara,JAL,bronze,2025-11-03 15:49:08,True
+CUST001102,Cliente 001102,cliente001102@example.com,+522736408179,Monterrey,NL,silver,2025-09-21 00:33:05,False
+CUST001103,Cliente 001103,cliente001103@example.com,+527844674517,Tijuana,BC,platinum,2025-08-05 07:57:28,True
+CUST001104,Cliente 001104,cliente001104@example.com,+529375782454,Tijuana,BC,platinum,2026-04-14 11:49:06,True
+CUST001105,Cliente 001105,cliente001105@example.com,+521464013969,Guadalajara,JAL,gold,2025-12-20 03:00:21,False
+CUST001106,Cliente 001106,cliente001106@example.com,+521578138594,Tijuana,BC,bronze,2025-06-29 06:49:48,True
+CUST001107,Cliente 001107,cliente001107@example.com,+523912449281,Ciudad de México,CDMX,silver,2026-01-22 21:54:27,False
+CUST001108,Cliente 001108,cliente001108@example.com,+525950966235,Cancún,QROO,bronze,2025-09-11 22:53:58,True
+CUST001109,Cliente 001109,cliente001109@example.com,+528699722790,León,GTO,silver,2026-01-18 07:02:24,True
+CUST001110,Cliente 001110,cliente001110@example.com,+527463044261,Tijuana,BC,gold,2026-01-16 18:55:44,True
+CUST001111,Cliente 001111,cliente001111@example.com,+525806644397,Oaxaca,OAX,platinum,2025-12-01 07:21:24,True
+CUST001112,Cliente 001112,cliente001112@example.com,+522974208537,Querétaro,QRO,bronze,2025-12-10 17:50:40,True
+CUST001113,Cliente 001113,cliente001113@example.com,+525999961449,León,GTO,platinum,2025-08-24 09:09:36,True
+CUST001114,Cliente 001114,cliente001114@example.com,+528194175806,Puebla,PUE,platinum,2025-10-30 04:59:09,False
+CUST001115,Cliente 001115,cliente001115@example.com,+523176195719,León,GTO,platinum,2025-05-02 09:50:50,True
+CUST001116,Cliente 001116,cliente001116@example.com,+529464825444,Tijuana,BC,gold,2026-04-05 01:52:46,True
+CUST001117,Cliente 001117,cliente001117@example.com,+529710824963,Mérida,YUC,bronze,2025-02-17 17:01:33,True
+CUST001118,Cliente 001118,cliente001118@example.com,+523508119100,Mérida,YUC,gold,2025-09-28 23:32:04,False
+CUST001119,Cliente 001119,cliente001119@example.com,+526829842920,Ciudad de México,CDMX,gold,2025-11-29 13:15:38,True
+CUST001120,Cliente 001120,cliente001120@example.com,+523954899995,Monterrey,NL,gold,2025-07-12 07:51:29,True
+CUST001121,Cliente 001121,cliente001121@example.com,+529674596936,Mérida,YUC,gold,2025-05-12 20:54:52,True
+CUST001122,Cliente 001122,cliente001122@example.com,+529166493111,Tijuana,BC,gold,2025-11-25 03:28:05,True
+CUST001123,Cliente 001123,cliente001123@example.com,+526654385989,Tijuana,BC,platinum,2026-04-02 16:54:49,True
+CUST001124,Cliente 001124,cliente001124@example.com,+528766703461,Cancún,QROO,bronze,2025-03-17 21:44:18,True
+CUST001125,Cliente 001125,cliente001125@example.com,+522458310741,Mérida,YUC,gold,2026-01-21 19:44:39,True
+CUST001126,Cliente 001126,cliente001126@example.com,+524380781824,Querétaro,QRO,silver,2025-06-06 17:03:12,True
+CUST001127,Cliente 001127,cliente001127@example.com,+527758219918,Puebla,PUE,silver,2025-02-06 22:02:55,True
+CUST001128,Cliente 001128,cliente001128@example.com,+527837006653,Cancún,QROO,gold,2025-03-15 13:57:45,True
+CUST001129,Cliente 001129,cliente001129@example.com,+527336229400,Cancún,QROO,silver,2026-02-17 11:44:38,True
+CUST001130,Cliente 001130,cliente001130@example.com,+526583066750,Ciudad de México,CDMX,gold,2025-08-23 10:50:10,True
+CUST001131,Cliente 001131,cliente001131@example.com,+527508461289,Querétaro,QRO,silver,2025-11-09 11:26:00,True
+CUST001132,Cliente 001132,cliente001132@example.com,+527772490394,León,GTO,silver,2025-05-25 21:20:16,False
+CUST001133,Cliente 001133,cliente001133@example.com,+529189797508,Puebla,PUE,bronze,2026-02-18 18:36:29,True
+CUST001134,Cliente 001134,cliente001134@example.com,+521634554320,Mérida,YUC,silver,2025-12-26 05:22:36,True
+CUST001135,Cliente 001135,cliente001135@example.com,+529866648716,Querétaro,QRO,silver,2025-11-15 15:48:20,False
+CUST001136,Cliente 001136,cliente001136@example.com,+523774732090,Puebla,PUE,gold,2025-08-11 22:53:56,True
+CUST001137,Cliente 001137,cliente001137@example.com,+521487730383,Querétaro,QRO,silver,2025-07-05 05:39:11,True
+CUST001138,Cliente 001138,cliente001138@example.com,+527288518038,Monterrey,NL,platinum,2025-08-30 04:53:44,False
+CUST001139,Cliente 001139,cliente001139@example.com,+525979406794,Oaxaca,OAX,silver,2025-06-06 21:22:33,True
+CUST001140,Cliente 001140,cliente001140@example.com,+524661549914,Puebla,PUE,platinum,2025-08-04 18:02:42,True
+CUST001141,Cliente 001141,cliente001141@example.com,+529397041061,Oaxaca,OAX,gold,2025-03-07 04:33:36,True
+CUST001142,Cliente 001142,cliente001142@example.com,+522013789043,Querétaro,QRO,bronze,2025-04-20 04:13:52,True
+CUST001143,Cliente 001143,cliente001143@example.com,+528759662631,Tijuana,BC,gold,2025-03-12 02:21:33,False
+CUST001144,Cliente 001144,cliente001144@example.com,+521936338890,Monterrey,NL,bronze,2025-11-25 10:50:58,True
+CUST001145,Cliente 001145,cliente001145@example.com,+527182499837,Monterrey,NL,gold,2025-08-02 05:55:59,True
+CUST001146,Cliente 001146,cliente001146@example.com,+525074682264,Tijuana,BC,gold,2026-02-19 08:36:03,False
+CUST001147,Cliente 001147,cliente001147@example.com,+529432375190,Tijuana,BC,silver,2025-07-11 08:14:06,True
+CUST001148,Cliente 001148,cliente001148@example.com,+528822704697,Tijuana,BC,bronze,2025-10-13 15:09:25,True
+CUST001149,Cliente 001149,cliente001149@example.com,+526947199197,Oaxaca,OAX,gold,2025-07-06 03:52:52,True
+CUST001150,Cliente 001150,cliente001150@example.com,+528978533723,León,GTO,platinum,2025-07-03 14:28:40,True
+CUST001151,Cliente 001151,cliente001151@example.com,+522292304779,Querétaro,QRO,silver,2025-07-18 11:29:35,True
+CUST001152,Cliente 001152,cliente001152@example.com,+529228688342,Monterrey,NL,gold,2025-05-05 10:51:07,False
+CUST001153,Cliente 001153,cliente001153@example.com,+524721351171,Oaxaca,OAX,platinum,2025-08-01 20:24:39,False
+CUST001154,Cliente 001154,cliente001154@example.com,+528376116786,Querétaro,QRO,bronze,2025-09-16 10:23:29,True
+CUST001155,Cliente 001155,cliente001155@example.com,+525580012388,Puebla,PUE,platinum,2026-01-29 06:45:34,True
+CUST001156,Cliente 001156,cliente001156@example.com,+524272659618,Tijuana,BC,silver,2025-01-22 05:51:27,False
+CUST001157,Cliente 001157,cliente001157@example.com,+522720829540,Guadalajara,JAL,gold,2025-01-03 09:20:13,True
+CUST001158,Cliente 001158,cliente001158@example.com,+521476003514,Cancún,QROO,silver,2025-03-05 20:54:59,True
+CUST001159,Cliente 001159,cliente001159@example.com,+526666776123,Cancún,QROO,platinum,2025-11-15 16:50:54,True
+CUST001160,Cliente 001160,cliente001160@example.com,+528845911427,Puebla,PUE,gold,2025-05-15 17:53:00,True
+CUST001161,Cliente 001161,cliente001161@example.com,+522578828127,Ciudad de México,CDMX,platinum,2025-11-18 22:46:24,False
+CUST001162,Cliente 001162,cliente001162@example.com,+522986099771,Cancún,QROO,gold,2025-06-24 08:44:36,True
+CUST001163,Cliente 001163,cliente001163@example.com,+527949274479,Oaxaca,OAX,gold,2025-11-08 11:49:57,True
+CUST001164,Cliente 001164,cliente001164@example.com,+523436289709,Ciudad de México,CDMX,bronze,2025-10-13 18:31:43,False
+CUST001165,Cliente 001165,cliente001165@example.com,+521509006662,Tijuana,BC,silver,2026-01-19 19:36:20,True
+CUST001166,Cliente 001166,cliente001166@example.com,+528500915689,Puebla,PUE,platinum,2025-08-12 16:00:00,True
+CUST001167,Cliente 001167,cliente001167@example.com,+523577335953,Querétaro,QRO,gold,2025-06-10 11:24:50,True
+CUST001168,Cliente 001168,cliente001168@example.com,+521626819783,Querétaro,QRO,gold,2025-05-21 02:20:17,True
+CUST001169,Cliente 001169,cliente001169@example.com,+524896945119,Monterrey,NL,gold,2025-12-17 06:48:53,False
+CUST001170,Cliente 001170,cliente001170@example.com,+523013831172,Ciudad de México,CDMX,gold,2025-01-09 00:22:59,False
+CUST001171,Cliente 001171,cliente001171@example.com,+528337750465,Monterrey,NL,gold,2025-10-25 20:52:24,True
+CUST001172,Cliente 001172,cliente001172@example.com,+521252339280,Ciudad de México,CDMX,gold,2026-03-09 15:13:55,True
+CUST001173,Cliente 001173,cliente001173@example.com,+521195472006,Tijuana,BC,gold,2025-10-03 04:39:43,False
+CUST001174,Cliente 001174,cliente001174@example.com,+528178015729,Puebla,PUE,silver,2025-11-03 13:40:54,True
+CUST001175,Cliente 001175,cliente001175@example.com,+522117944144,Cancún,QROO,platinum,2025-05-20 07:44:26,True
+CUST001176,Cliente 001176,cliente001176@example.com,+525680002451,Tijuana,BC,platinum,2025-04-13 11:09:30,True
+CUST001177,Cliente 001177,cliente001177@example.com,+522345482726,Puebla,PUE,silver,2025-04-01 18:05:37,False
+CUST001178,Cliente 001178,cliente001178@example.com,+529273125114,Puebla,PUE,gold,2025-10-08 01:55:33,True
+CUST001179,Cliente 001179,cliente001179@example.com,+527515348075,Cancún,QROO,platinum,2025-07-24 20:48:15,True
+CUST001180,Cliente 001180,cliente001180@example.com,+528723296882,Mérida,YUC,bronze,2026-01-17 14:01:32,True
+CUST001181,Cliente 001181,cliente001181@example.com,+521987243526,Guadalajara,JAL,bronze,2025-02-12 09:12:20,False
+CUST001182,Cliente 001182,cliente001182@example.com,+528327054707,Puebla,PUE,platinum,2025-05-08 00:53:07,True
+CUST001183,Cliente 001183,cliente001183@example.com,+527191279918,Tijuana,BC,platinum,2025-02-01 16:24:45,False
+CUST001184,Cliente 001184,cliente001184@example.com,+524723218268,Tijuana,BC,bronze,2025-03-29 08:58:55,True
+CUST001185,Cliente 001185,cliente001185@example.com,+529023742403,Ciudad de México,CDMX,silver,2025-06-08 05:52:17,True
+CUST001186,Cliente 001186,cliente001186@example.com,+529607654443,León,GTO,silver,2025-07-31 21:12:11,False
+CUST001187,Cliente 001187,cliente001187@example.com,+528594590645,Ciudad de México,CDMX,bronze,2025-07-11 04:42:25,True
+CUST001188,Cliente 001188,cliente001188@example.com,+523923324008,Oaxaca,OAX,platinum,2025-08-09 19:23:11,True
+CUST001189,Cliente 001189,cliente001189@example.com,+528889757029,Cancún,QROO,silver,2025-03-24 09:17:11,True
+CUST001190,Cliente 001190,cliente001190@example.com,+528127667126,Ciudad de México,CDMX,platinum,2025-12-24 11:22:05,True
+CUST001191,Cliente 001191,cliente001191@example.com,+529778256009,Cancún,QROO,platinum,2025-01-05 12:13:11,True
+CUST001192,Cliente 001192,cliente001192@example.com,+528059397349,Cancún,QROO,gold,2025-04-11 10:42:11,True
+CUST001193,Cliente 001193,cliente001193@example.com,+522638061586,Ciudad de México,CDMX,platinum,2026-03-01 23:43:52,True
+CUST001194,Cliente 001194,cliente001194@example.com,+529012328127,Guadalajara,JAL,bronze,2025-07-06 11:25:04,True
+CUST001195,Cliente 001195,cliente001195@example.com,+527023245961,Monterrey,NL,silver,2025-05-07 13:26:04,True
+CUST001196,Cliente 001196,cliente001196@example.com,+528735667403,Puebla,PUE,gold,2026-01-17 06:00:56,True
+CUST001197,Cliente 001197,cliente001197@example.com,+528868607194,Mérida,YUC,silver,2025-03-16 15:38:53,False
+CUST001198,Cliente 001198,cliente001198@example.com,+527341260172,Tijuana,BC,platinum,2025-10-29 10:30:47,True
+CUST001199,Cliente 001199,cliente001199@example.com,+523636542070,Querétaro,QRO,platinum,2025-10-14 00:25:01,False
+CUST001200,Cliente 001200,cliente001200@example.com,+527499752071,Ciudad de México,CDMX,platinum,2025-02-01 09:49:14,True
