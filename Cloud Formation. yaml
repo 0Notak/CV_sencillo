@@ -1,0 +1,146 @@
+AWSTemplateFormatVersion: '2010-09-09'
+Description: 'Infraestructura de Data Engineering: S3 para CSVs/Scripts y AWS Glue Workflow secuencial (Pipeline 1 -> 2 -> 3).'
+
+Parameters:
+  Environment:
+    Type: String
+    Default: dev
+    AllowedValues: [dev, qa, prod]
+    Description: Entorno de despliegue (se usa para etiquetado y nombres).
+  DataBucketName:
+    Type: String
+    Description: Nombre globalmente único para el bucket S3 que almacenará los CSVs y los scripts de Glue.
+
+Resources:
+  # 1. Bucket S3 (Mejores prácticas: Cifrado habilitado y acceso público bloqueado)
+  S3ArtifactBucket:
+    Type: AWS::S3::Bucket
+    Properties:
+      BucketName: !Ref DataBucketName
+      BucketEncryption:
+        ServerSideEncryptionConfiguration:
+          - ServerSideEncryptionByDefault:
+              SSEAlgorithm: AES256
+      PublicAccessBlockConfiguration:
+        BlockPublicAcls: true
+        BlockPublicPolicy: true
+        IgnorePublicAcls: true
+        RestrictPublicBuckets: true
+      Tags:
+        - Key: Environment
+          Value: !Ref Environment
+
+  # 2. Rol de IAM para AWS Glue (Principio de menor privilegio)
+  GlueJobRole:
+    Type: AWS::IAM::Role
+    Properties:
+      AssumeRolePolicyDocument:
+        Version: '2012-10-17'
+        Statement:
+          - Effect: Allow
+            Principal:
+              Service: glue.amazonaws.com
+            Action: sts:AssumeRole
+      ManagedPolicyArns:
+        - arn:aws:iam::aws:policy/service-role/AWSGlueServiceRole
+      Policies:
+        - PolicyName: S3DataAndScriptsAccess
+          PolicyDocument:
+            Version: '2012-10-17'
+            Statement:
+              - Effect: Allow
+                Action:
+                  - s3:GetObject
+                  - s3:PutObject
+                  - s3:DeleteObject
+                  - s3:ListBucket
+                Resource:
+                  - !GetAtt S3ArtifactBucket.Arn
+                  - !Sub "${S3ArtifactBucket.Arn}/*"
+
+  # 3. AWS Glue Workflow
+  PipelineWorkflow:
+    Type: AWS::Glue::Workflow
+    Properties:
+      Name: !Sub "${Environment}-etl-workflow"
+      Description: "Orquesta la ejecución secuencial de Pipeline 1, 2 y 3"
+
+  # 4. AWS Glue Jobs (Configurados como PySpark)
+  Pipeline1Job:
+    Type: AWS::Glue::Job
+    Properties:
+      Name: !Sub "${Environment}-pipeline-1"
+      Role: !GetAtt GlueJobRole.Arn
+      Command:
+        Name: glueetl
+        ScriptLocation: !Sub "s3://${S3ArtifactBucket}/scripts/Pipeline1.py"
+      GlueVersion: "4.0"
+      WorkerType: G.1X
+      NumberOfWorkers: 2
+
+  Pipeline2Job:
+    Type: AWS::Glue::Job
+    Properties:
+      Name: !Sub "${Environment}-pipeline-2"
+      Role: !GetAtt GlueJobRole.Arn
+      Command:
+        Name: glueetl
+        ScriptLocation: !Sub "s3://${S3ArtifactBucket}/scripts/Pipeline2.py"
+      GlueVersion: "4.0"
+      WorkerType: G.1X
+      NumberOfWorkers: 2
+
+  Pipeline3Job:
+    Type: AWS::Glue::Job
+    Properties:
+      Name: !Sub "${Environment}-pipeline-3"
+      Role: !GetAtt GlueJobRole.Arn
+      Command:
+        Name: glueetl
+        ScriptLocation: !Sub "s3://${S3ArtifactBucket}/scripts/Pipeline3.py"
+      GlueVersion: "4.0"
+      WorkerType: G.1X
+      NumberOfWorkers: 2
+
+  # 5. Triggers del Workflow
+  # Trigger 1: Inicia a demanda
+  TriggerStartPipeline1:
+    Type: AWS::Glue::Trigger
+    Properties:
+      Name: !Sub "${Environment}-trigger-pipeline-1"
+      Type: ON_DEMAND
+      WorkflowName: !Ref PipelineWorkflow
+      Actions:
+        - JobName: !Ref Pipeline1Job
+
+  # Trigger 2: Inicia cuando Pipeline 1 termina con éxito
+  TriggerStartPipeline2:
+    Type: AWS::Glue::Trigger
+    Properties:
+      Name: !Sub "${Environment}-trigger-pipeline-2"
+      Type: CONDITIONAL
+      WorkflowName: !Ref PipelineWorkflow
+      StartOnCreation: true
+      Predicate:
+        Conditions:
+          - JobName: !Ref Pipeline1Job
+            LogicalOperator: EQUALS
+            State: SUCCEEDED
+      Actions:
+        - JobName: !Ref Pipeline2Job
+
+  # Trigger 3: Inicia cuando Pipeline 2 termina con éxito
+  TriggerStartPipeline3:
+    Type: AWS::Glue::Trigger
+    Properties:
+      Name: !Sub "${Environment}-trigger-pipeline-3"
+      Type: CONDITIONAL
+      WorkflowName: !Ref PipelineWorkflow
+      StartOnCreation: true
+      Predicate:
+        Conditions:
+          - JobName: !Ref Pipeline2Job
+            LogicalOperator: EQUALS
+            State: SUCCEEDED
+      Actions:
+        - JobName: !Ref Pipeline3Job
